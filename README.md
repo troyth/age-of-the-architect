@@ -14,6 +14,8 @@ Some recent discoveries are too hot for history; their implications too radical 
 In this seminar we will investigate the various discoveries and theories of the contemporary discourses of pre-history — credentialed and crackpot alike — to theorize their consequences for the figure of the architect. HINT: it may have very little to do with design; it will not be tethered to buildings.
 The seminar will begin with a crash course in the esoteric knowledge required to jump into the more speculative reports, such as the occult, Hermeticism, Gnosticism, magic, ritual, ancient Egyptian spiritualism, shamanism, and other marginal histories, theologies, and practices. These will be complimented with selected readings from architecture theory, tech entrepreneurialism, military and business strategy, and other supporting discourses. We will then move into weekly research assignments and presentations.
 
+![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
+
 #### Midterm Deliverable
 Each student will deliver a 12 minute presentation on a single “architect” selected from a prepared list. Examples may include Thomas Jefferson, Christopher Wren, Hiram Abiff, Imhotep, Vitruvius, Phidias, Daedalus, Steve Bannon, and Vladislav Surkov.
 
