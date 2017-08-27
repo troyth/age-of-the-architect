@@ -31,6 +31,8 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 
 > If ‘Junkspace is what remains after modernization has run its course,’ then Junktime is the mess digitization has made of temporality. \(me, “Junkspace”, [After Belonging: Objects, Spaces, and Territories of the Ways We Stay in Transit](https://www.amazon.com/After-Belonging-Objects-Territories-Transit/dp/3037785209), 2016\)
 
+![Memeufacturing](/assets/memeufacturingSpread.png)
+
 #### Week 2: Refactored Perception
 
 > Experiments in refactored perceptions is a geek joke. It refers to changing how you see the world by trying to rewire the software inside your head through writing. \(Venkatesh Rao, [Ribbonfarm.com/about](https://www.ribbonfarm.com/about/)\)
