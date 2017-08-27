@@ -1,7 +1,7 @@
 # Age of the Architect
 *Graduate seminar at Columbia University (Fall 2017)*
 
-### Syllabus (v.0.2)
+### Syllabus (v.0.3)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? Why did 1/5 of Americans think Obama was the anti-Christ? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
@@ -13,8 +13,6 @@ Some recent discoveries are too hot for history; their implications too radical 
 
 In this seminar we will investigate the various discoveries and theories of the contemporary discourses of pre-history — credentialed and crackpot alike — to theorize their consequences for the figure of the architect. HINT: it may have very little to do with design; it will not be tethered to buildings.
 The seminar will begin with a crash course in the esoteric knowledge required to jump into the more speculative reports, such as the occult, Hermeticism, Gnosticism, magic, ritual, ancient Egyptian spiritualism, shamanism, and other marginal histories, theologies, and practices. These will be complimented with selected readings from architecture theory, tech entrepreneurialism, military and business strategy, and other supporting discourses. We will then move into weekly research assignments and presentations.
-
-![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
 
 #### Midterm Deliverable
 Each student will deliver a 12 minute presentation on a single “architect” selected from a prepared list. Examples may include Thomas Jefferson, Christopher Wren, Hiram Abiff, Imhotep, Vitruvius, Phidias, Daedalus, Steve Bannon, and Vladislav Surkov.
@@ -37,9 +35,13 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 
 > Experiments in refactored perceptions is a geek joke. It refers to changing how you see the world by trying to rewire the software inside your head through writing. \(Venkatesh Rao, [Ribbonfarm.com/about](https://www.ribbonfarm.com/about/)\)
 
+![Ribbonfarm Greater Cultural Region, 2016](/assets/RibbonfarmMap2016.jpg)
+
 #### Week 3: Tempo
 
 > Tempo: The set of characteristic rhythms of decision-making in the subjective life of an individual or organization, colored by associated patterns of emotion and energy. \(Venkatesh Rao, [Tempo glossary](http://www.tempobook.com/glossary/#tempo)\)
+
+![John Boyd, Aerial Attack Study, 1964](/assets/boydaerialattack-84.png)
 
 #### Week 4: Deep History
 
@@ -51,6 +53,8 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 conclusions are controversial, their archive contains a critical mass of potent architectural evidence far off the radar of polite architecture discourse. There is gold to be mined down the rabbit hole of conspiracy
 history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
+![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
+
 #### Week 6: Stoned Apes
 
 > Even as the nineteenth century had to come to grips with the notion of human descent from apes, we must now come to terms with the fact that those apes were stoned apes. (Terrence McKenna)
@@ -59,6 +63,8 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 > Properly used, magic will destroy your life. This is a feature, not a bug. \(Gordon White, [The Chaos Protocols: Magical Techniques for Navigating the New Economic Reality](https://www.amazon.com/Chaos-Protocols-Techniques-Navigating-Economic/dp/0738744719), 2016\)
 
+![K-HOLE #5, Chaos Magic](/assets/K-HOLE_ChaosMagicSpread.png)
+
 #### Week 8: Cathedrals
 
 > It is necessary to ask, rather, who do capitalists pay for political favors, how much these favors are potentially worth, and how the authority to grant them is distributed. This requires, with a minimum of moral irritation, that the entire social landscape of political bribery (‘lobbying’) is exactly mapped, and the administrative, legislative, judicial, media, and academic privileges accessed by such bribes are converted into fungible shares. Insofar as voters are worth bribing, there is no need to entirely exclude them from this calculation, although their portion of sovereignty will be estimated with appropriate derision. The conclusion of this exercise is the mapping of a ruling entity that is the truly dominant instance of the democratic polity. Moldbug calls it the Cathedral. \(Nick Land, [The Dark Enlightenment](http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/)\)
@@ -66,6 +72,8 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 #### Week 9: Hyperstition
 
 > The interest in Lovecraft’s fiction was motivated by its exemplification of the practice of hyperstition, a concept had been elaborated and keenly debated since the inception of the Cthulhu Club. Loosely defined, the coinage refers to ‘fictions that make themselves real’. \(Ccru. [Ccru: Writings 1997-2003](https://www.amazon.com/Ccru-Writings-1997-2003-ebook/dp/B00X96VLF0)\)
+
+![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
 
 #### Week 10: Recontextualizing Classicism
 
