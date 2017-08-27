@@ -77,6 +77,10 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 ![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
 
+#### Week 10: Decentralization
+
+![Superskynet ICO](/assets/superskynetICO.jpg)
+
 #### Week 10: Recontextualizing Classicism
 
 

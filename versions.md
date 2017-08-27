@@ -8,3 +8,6 @@ Added weekly schedule outline
 
 ### 0.3
 Added some images
+
+### 0.4
+Added a week on decentralization
