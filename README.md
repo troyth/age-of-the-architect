@@ -77,7 +77,9 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 ![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
 
-#### Week 10: Decentralization
+#### Week 10: Cryptoculture
+
+> A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
 ![Superskynet ICO](/assets/superskynetICO.jpg)
 
