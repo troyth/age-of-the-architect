@@ -1,7 +1,7 @@
 # Age of the Architect
 *Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https://www.arch.columbia.edu/courses/72646-1635-age-of-the-architect), [university directory](http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/A6752-20173-001/), and [student courseworks](https://courseworks2.columbia.edu/courses/sis_course_id:ARCHA6752_001_2017_3/assignments/syllabus).*
 
-## Syllabus [v.0.5](https://github.com/troyth/age-of-the-architect/versions.md)
+## Syllabus [v.0.6](https://github.com/troyth/age-of-the-architect/versions.md)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? Why did 1/5 of Americans think Obama was the anti-Christ? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
@@ -16,16 +16,13 @@ The seminar will begin with a crash course in the esoteric knowledge required to
 
 
 ### Deliverables
-*Note: this will very likely change depending on the number of students enrolled and their interests. We will discuss options in the first class. These may including launching our own cryptocurrency on the Ethereum blockchain as a collective product.*
+*Note: there will be two options for deliverables that we will decide as a group in the first class.*
 
-#### Midterm Deliverable
-Each student will deliver a 12 minute presentation on a single “architect” selected from a prepared list. Examples may include Thomas Jefferson, Christopher Wren, Hiram Abiff, Imhotep, Vitruvius, Phidias, and Daedalus.
+#### Option 1: Cryptocurrency ICO
+We will launch our own EC-20 compliant cryptocurrency on the Ethereum blockchain through an Initial Coin Offering (ICO). Each student will contribute to various aspects of the project, including: developing the concept, writing the whitepaper, writing the smart contract for the ICO, branding and graphics, building the website, and community management and hype.
 
-#### Final Deliverable
-Presentation and booklet that expands the midterm research to one of the topics of the Guggenheim exhibition. Topics will be introduced in class.
-
-#### Running Collective Deliverable
-The seminar will start with a definition of the architect that each student will fork (i.e. copy) and regularly update based on class discussions, annotating changes with their rationale.
+#### Option 2: Recontextualizing 'Architect' and 'Architecture'
+We will collectively define both 'architect' and 'architecture' by applying the insights from our weekly readings and discussions to a running group definition of each, and running personal definitions. This will include presentations that profile architects that belong to what Michael Witzel calls "grandmother stories"–Hiram Abiff, Imhotep, Vitruvius, Phidias, Daedalus–and recontextualizations of the discipline's "grandfather stories" by considering occult interpretations omitted from the canon–Thomas Jefferson, Christopher Wren. Each student will ultimately produce a presentation and research book\(let\) that corresponds to one of the topics of the Guggenheim exhibition.
 
 
 ### Methodology

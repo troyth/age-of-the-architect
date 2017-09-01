@@ -14,3 +14,6 @@ Added a week on decentralization
 
 ### 0.5
 Added active form and recontextualization to methodology
+
+### 0.6
+Made two deliverable options explicit
