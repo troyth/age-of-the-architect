@@ -57,6 +57,7 @@ Parisi, Luciana, "Automated Architecture", [*#Accelerate: The Accelerationist Re
 
 Therrien, Troy Conrad, "Junktime", *After Belonging: Objects, Spaces, and Territories of the Ways We Stay in Transit*, 2016
 Therrien, Troy Conrad, "Social Soup", *Ed*, forthcoming
+Therrien, Troy Conrad, "The Promethean Gift Economy", *Volume*, Is.49, 2016
 
 ### Papers
 Lewis-Williams, David, "The Signs of All Times: Entoptic Phenomena in Upper Palaeolithic Art", 1988
