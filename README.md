@@ -1,7 +1,7 @@
 # Age of the Architect
 *Graduate seminar at Columbia University (Fall 2017)*
 
-### Syllabus (v.0.3)
+### Syllabus (v.0.4)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? Why did 1/5 of Americans think Obama was the anti-Christ? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
@@ -85,5 +85,4 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 #### Week 10: Recontextualizing Classicism
 
-
-#### Week 11: Recontextualizing Modernism
+#### Week 12: Recontextualizing Modernism
