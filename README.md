@@ -67,21 +67,21 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 ![K-HOLE #5, Chaos Magic](/assets/K-HOLE_ChaosMagicSpread.png)
 
-#### Week 8: Cathedrals
-
-> It is necessary to ask, rather, who do capitalists pay for political favors, how much these favors are potentially worth, and how the authority to grant them is distributed. This requires, with a minimum of moral irritation, that the entire social landscape of political bribery (‘lobbying’) is exactly mapped, and the administrative, legislative, judicial, media, and academic privileges accessed by such bribes are converted into fungible shares. Insofar as voters are worth bribing, there is no need to entirely exclude them from this calculation, although their portion of sovereignty will be estimated with appropriate derision. The conclusion of this exercise is the mapping of a ruling entity that is the truly dominant instance of the democratic polity. Moldbug calls it the Cathedral. \(Nick Land, [The Dark Enlightenment](http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/)\)
-
-#### Week 9: Hyperstition
-
-> The interest in Lovecraft’s fiction was motivated by its exemplification of the practice of hyperstition, a concept had been elaborated and keenly debated since the inception of the Cthulhu Club. Loosely defined, the coinage refers to ‘fictions that make themselves real’. \(Ccru. [Ccru: Writings 1997-2003](https://www.amazon.com/Ccru-Writings-1997-2003-ebook/dp/B00X96VLF0)\)
-
-![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
-
-#### Week 10: Cryptoculture
+### Week 8: Counterculture, Cyberculture, Cryptoculture
 
 > A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
 ![Superskynet ICO](/assets/superskynetICO.jpg)
+
+#### Week 9: Cathedrals
+
+> It is necessary to ask, rather, who do capitalists pay for political favors, how much these favors are potentially worth, and how the authority to grant them is distributed. This requires, with a minimum of moral irritation, that the entire social landscape of political bribery (‘lobbying’) is exactly mapped, and the administrative, legislative, judicial, media, and academic privileges accessed by such bribes are converted into fungible shares. Insofar as voters are worth bribing, there is no need to entirely exclude them from this calculation, although their portion of sovereignty will be estimated with appropriate derision. The conclusion of this exercise is the mapping of a ruling entity that is the truly dominant instance of the democratic polity. Moldbug calls it the Cathedral. \(Nick Land, [The Dark Enlightenment](http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/)\)
+
+#### Week 10: Hyperstition
+
+> The interest in Lovecraft’s fiction was motivated by its exemplification of the practice of hyperstition, a concept had been elaborated and keenly debated since the inception of the Cthulhu Club. Loosely defined, the coinage refers to ‘fictions that make themselves real’. \(Ccru. [Ccru: Writings 1997-2003](https://www.amazon.com/Ccru-Writings-1997-2003-ebook/dp/B00X96VLF0)\)
+
+![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
 
 #### Week 10: Recontextualizing Classicism
 
