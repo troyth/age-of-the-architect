@@ -1,4 +1,5 @@
 ## Bibliography (in progress)
+*Note: we will not read all of this, but these texts make up the discursive field we will enter.*
 
 ### Books
 Berardi, Franco "Bifo", [*And: Phenomenology of the End*](https://www.amazon.com/Phenomenology-End-Semiotext-Foreign-Agents/dp/1584351705), 2015
