@@ -34,7 +34,7 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 
 
 #### Active Form (h/t Keller Easterling)
-> Disposition is the character or propensity of an organization that results from all its activity. It is the medium, not the message. It is not hte pattern printed on the fabric but the way fabric floats. It is not the shape of the game piece but the way the game piece plays. It is not the text but the constantly updating software that manages the text. Not the object form, but the active form... Detecting and developing the active forms that shape disposition is an essential skill of the urbanist in infrastructure space. \(Keller Easterling, [Extrastatecraft: The Power of Infrastructure Space](https://www.amazon.com/Extrastatecraft-Power-Infrastructure-Keller-Easterling/dp/1784783641), 2014\)
+> Disposition is the character or propensity of an organization that results from all its activity. It is the medium, not the message. It is not the pattern printed on the fabric but the way fabric floats. It is not the shape of the game piece but the way the game piece plays. It is not the text but the constantly updating software that manages the text. Not the object form, but the active form... Detecting and developing the active forms that shape disposition is an essential skill of the urbanist in infrastructure space. \(Keller Easterling, [Extrastatecraft: The Power of Infrastructure Space](https://www.amazon.com/Extrastatecraft-Power-Infrastructure-Keller-Easterling/dp/1784783641), 2014\)
 
 ### Schedule
 #### Week 1: Contextualization
