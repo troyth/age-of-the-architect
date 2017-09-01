@@ -17,3 +17,6 @@ Added active form and recontextualization to methodology
 
 ### 0.6
 Made two deliverable options explicit
+
+### 0.7
+Adding readings and key terms
