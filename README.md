@@ -1,7 +1,7 @@
 # Age of the Architect
 *Graduate seminar at Columbia University (Fall 2017)*
 
-### Syllabus (v.0.4)
+## Syllabus [v.0.5](https://github.com/troyth/age-of-the-architect/versions.md)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? Why did 1/5 of Americans think Obama was the anti-Christ? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
@@ -14,8 +14,11 @@ Some recent discoveries are too hot for history; their implications too radical 
 In this seminar we will investigate the various discoveries and theories of the contemporary discourses of pre-history — credentialed and crackpot alike — to theorize their consequences for the figure of the architect. HINT: it may have very little to do with design; it will not be tethered to buildings.
 The seminar will begin with a crash course in the esoteric knowledge required to jump into the more speculative reports, such as the occult, Hermeticism, Gnosticism, magic, ritual, ancient Egyptian spiritualism, shamanism, and other marginal histories, theologies, and practices. These will be complimented with selected readings from architecture theory, tech entrepreneurialism, military and business strategy, and other supporting discourses. We will then move into weekly research assignments and presentations.
 
+### Deliverables
+*Note: this will very likely change depending on the number of students enrolled and their interests. We will discuss options in the first class. These may including launching our own cryptocurrency on the Ethereum blockchain as a collective product.*
+
 #### Midterm Deliverable
-Each student will deliver a 12 minute presentation on a single “architect” selected from a prepared list. Examples may include Thomas Jefferson, Christopher Wren, Hiram Abiff, Imhotep, Vitruvius, Phidias, Daedalus, Steve Bannon, and Vladislav Surkov.
+Each student will deliver a 12 minute presentation on a single “architect” selected from a prepared list. Examples may include Thomas Jefferson, Christopher Wren, Hiram Abiff, Imhotep, Vitruvius, Phidias, and Daedalus.
 
 #### Final Deliverable
 Presentation and booklet that expands the midterm research to one of the topics of the Guggenheim exhibition. Topics will be introduced in class.
@@ -23,8 +26,16 @@ Presentation and booklet that expands the midterm research to one of the topics 
 #### Running Collective Deliverable
 The seminar will start with a definition of the architect that each student will fork (i.e. copy) and regularly update based on class discussions, annotating changes with their rationale.
 
-#### Paranoid Critical Method 
+### Methodology
+
+#### Paranoid Critical Method (h/t Rem Koolhaas)
 One of the principal lessons of the seminar is that recent discoveries of our pre-history should serve as a reminder of how little we know of our ancient history. As such, we will not be attempting definitive accounts, nor will we be genuflecting to the canonical accounts of others. Rather, we will first scour discourse indiscriminately, sifting through heterogeneous sources as if panning for gold: solid evidence valuable beyond the context of its discovery. We will ultimately hold it up to the light of critique, but not until we have indulged our own paranoia. This is an attempt to operationalize the method Koolhaas scripted from Dalí.
+
+#### Recontextualization (h/t Gordon White)
+
+
+#### Active Form (h/t Keller Easterling)
+> Disposition is the character or propensity of an organization that results from all its activity. It is the medium, not the message. It is not hte pattern printed on the fabric but the way fabric floats. It is not the shape of the game piece but the way the game piece plays. It is not the text but the constantly updating software that manages the text. Not the object form, but the active form... Detecting and developing the active forms that shape disposition is an essential skill of the urbanist in infrastructure space. \(Keller Easterling, [Extrastatecraft: The Power of Infrastructure Space](https://www.amazon.com/Extrastatecraft-Power-Infrastructure-Keller-Easterling/dp/1784783641), 2014\)
 
 ### Schedule
 #### Week 1: Junktime

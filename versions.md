@@ -11,3 +11,6 @@ Added some images
 
 ### 0.4
 Added a week on decentralization
+
+### 0.5
+Added active form and recontextualization to methodology
