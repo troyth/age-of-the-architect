@@ -81,7 +81,7 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 > The interest in Lovecraft’s fiction was motivated by its exemplification of the practice of hyperstition, a concept had been elaborated and keenly debated since the inception of the Cthulhu Club. Loosely defined, the coinage refers to ‘fictions that make themselves real’. \(Ccru. [Ccru: Writings 1997-2003](https://www.amazon.com/Ccru-Writings-1997-2003-ebook/dp/B00X96VLF0)\)
 
-![Ccru, Naturalization of the Techno-Magical Will](/assets/Ccru_TechnoMagicalWill.png)
+![Ccru, Naturalization of the Techno-Magical Will](/assets/hyperstition.jpg)
 
 #### Week 10: Recontextualizing Classicism
 
