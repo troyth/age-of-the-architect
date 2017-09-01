@@ -1,5 +1,5 @@
 # Age of the Architect
-*Graduate seminar at Columbia University (Fall 2017)*
+*Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https://www.arch.columbia.edu/courses/72646-1635-age-of-the-architect), [university directory](http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/A6752-20173-001/), and [student courseworks](https://courseworks2.columbia.edu/courses/sis_course_id:ARCHA6752_001_2017_3/assignments/syllabus).*
 
 ## Syllabus [v.0.5](https://github.com/troyth/age-of-the-architect/versions.md)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
@@ -14,6 +14,7 @@ Some recent discoveries are too hot for history; their implications too radical 
 In this seminar we will investigate the various discoveries and theories of the contemporary discourses of pre-history — credentialed and crackpot alike — to theorize their consequences for the figure of the architect. HINT: it may have very little to do with design; it will not be tethered to buildings.
 The seminar will begin with a crash course in the esoteric knowledge required to jump into the more speculative reports, such as the occult, Hermeticism, Gnosticism, magic, ritual, ancient Egyptian spiritualism, shamanism, and other marginal histories, theologies, and practices. These will be complimented with selected readings from architecture theory, tech entrepreneurialism, military and business strategy, and other supporting discourses. We will then move into weekly research assignments and presentations.
 
+
 ### Deliverables
 *Note: this will very likely change depending on the number of students enrolled and their interests. We will discuss options in the first class. These may including launching our own cryptocurrency on the Ethereum blockchain as a collective product.*
 
@@ -25,6 +26,7 @@ Presentation and booklet that expands the midterm research to one of the topics 
 
 #### Running Collective Deliverable
 The seminar will start with a definition of the architect that each student will fork (i.e. copy) and regularly update based on class discussions, annotating changes with their rationale.
+
 
 ### Methodology
 
