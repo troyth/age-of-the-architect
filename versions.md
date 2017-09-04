@@ -20,3 +20,6 @@ Made two deliverable options explicit
 
 ### 0.7
 Adding readings and key terms
+
+### 0.8
+Added placeholder Idea Space mind map
