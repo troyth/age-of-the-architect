@@ -39,12 +39,12 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 ### Idea Space
 *Note: we will focus on the items highlighted in clouds. Also, this is somewhat of a placeholder map that will undergo multiple revisions very shortly.*
 
-![Idea Space](https://github.com/troyth/age-of-the-architect/assets/IdeaSpace.png)
+![Idea Space](/assets/IdeaSpace.png)
 
 ### Schedule
 #### Week 1: Contextualization
 
-![Memeufacturing](https://github.com/troyth/age-of-the-architect/assets/memeufacturingSpread.png)
+![Memeufacturing](/assets/memeufacturingSpread.png)
 
 > If ‘Junkspace is what remains after modernization has run its course,’ then Junktime is the mess digitization has made of temporality. \(me, “Junkspace”, [After Belonging: Objects, Spaces, and Territories of the Ways We Stay in Transit](https://www.amazon.com/After-Belonging-Objects-Territories-Transit/dp/3037785209), 2016\)
 
@@ -62,7 +62,7 @@ Terms: Disposition, Active Form, Junkspace, Cool Media, Hot Media, Junktime, Gar
 
 > Experiments in refactored perceptions is a geek joke. It refers to changing how you see the world by trying to rewire the software inside your head through writing. \(Venkatesh Rao, [Ribbonfarm.com/about](https://www.ribbonfarm.com/about/)\)
 
-![Ribbonfarm Greater Cultural Region, 2016](https://github.com/troyth/age-of-the-architect/assets/RibbonfarmMap2016.jpg)
+![Ribbonfarm Greater Cultural Region, 2016](/assets/RibbonfarmMap2016.jpg)
 
 Terms: Agility, Legibility
 
@@ -70,7 +70,7 @@ Terms: Agility, Legibility
 
 > Tempo: The set of characteristic rhythms of decision-making in the subjective life of an individual or organization, colored by associated patterns of emotion and energy. \(Venkatesh Rao, [Tempo glossary](http://www.tempobook.com/glossary/#tempo)\)
 
-![John Boyd, Aerial Attack Study, 1964](https://github.com/troyth/age-of-the-architect/assets/boydaerialattack-84.png)
+![John Boyd, Aerial Attack Study, 1964](/assets/boydaerialattack-84.png)
 
 #### Week 4: Deep History
 
@@ -82,7 +82,7 @@ Terms: Agility, Legibility
 conclusions are controversial, their archive contains a critical mass of potent architectural evidence far off the radar of polite architecture discourse. There is gold to be mined down the rabbit hole of conspiracy
 history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
-![Orion Correlation Theory](https://github.com/troyth/age-of-the-architect/assets/OrionCorrelationTheory_GoogleMaps.jpg)
+![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
 
 #### Week 6: Stoned Apes
 
@@ -92,13 +92,13 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 > Properly used, magic will destroy your life. This is a feature, not a bug. \(Gordon White, [The Chaos Protocols: Magical Techniques for Navigating the New Economic Reality](https://www.amazon.com/Chaos-Protocols-Techniques-Navigating-Economic/dp/0738744719), 2016\)
 
-![K-HOLE #5, Chaos Magic](https://github.com/troyth/age-of-the-architect/assets/K-HOLE_ChaosMagicSpread.png)
+![K-HOLE #5, Chaos Magic](/assets/K-HOLE_ChaosMagicSpread.png)
 
 #### Week 8: Counterculture, Cyberculture, Cryptoculture
 
 > A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
-![Superskynet ICO](https://github.com/troyth/age-of-the-architect/assets/superskynetICO.jpg)
+![Superskynet ICO](/assets/superskynetICO.jpg)
 
 #### Week 9: Cathedrals
 
@@ -108,7 +108,7 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 > The interest in Lovecraft’s fiction was motivated by its exemplification of the practice of hyperstition, a concept had been elaborated and keenly debated since the inception of the Cthulhu Club. Loosely defined, the coinage refers to ‘fictions that make themselves real’. \(Ccru. [Ccru: Writings 1997-2003](https://www.amazon.com/Ccru-Writings-1997-2003-ebook/dp/B00X96VLF0)\)
 
-![Ccru, Naturalization of the Techno-Magical Will](https://github.com/troyth/age-of-the-architect/assets/hyperstition.jpg)
+![Ccru, Naturalization of the Techno-Magical Will](/assets/hyperstition.jpg)
 
 #### Week 10: Recontextualizing Classicism
 
