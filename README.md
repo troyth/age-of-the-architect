@@ -42,29 +42,17 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 
 
 ### Schedule
-#### Week 1: Contextualization
+#### Week 1: Recontextualization
 
 ![Memeufacturing](/assets/memeufacturingSpread.png)
 
 > If ‘Junkspace is what remains after modernization has run its course,’ then Junktime is the mess digitization has made of temporality. \(me, “Junkspace”, [After Belonging: Objects, Spaces, and Territories of the Ways We Stay in Transit](https://www.amazon.com/After-Belonging-Objects-Territories-Transit/dp/3037785209), 2016\)
-
-Texts:
-* Berardi, *And*
-* Easterling, "Disposition" chapter in *Extrastatecraft*
-* Koolhaas, "Junkspace"
-* McLuhan, "Media Hot and Cool" chapter in *Understanding Media*
-* Therrien, "Junktime"
-* Therrien, "The Promethean Gift Economy"
-
-Terms: Disposition, Active Form, Junkspace, Cool Media, Hot Media, Junktime, Garbagetime, Agility, Kanban, Lean, Decentralization
 
 #### Week 2: Refactored Perception
 
 > Experiments in refactored perceptions is a geek joke. It refers to changing how you see the world by trying to rewire the software inside your head through writing. \(Venkatesh Rao, [Ribbonfarm.com/about](https://www.ribbonfarm.com/about/)\)
 
 ![Ribbonfarm Greater Cultural Region, 2016](/assets/RibbonfarmMap2016.jpg)
-
-Terms: Agility, Legibility
 
 #### Week 3: Tempo
 

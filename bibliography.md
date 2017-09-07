@@ -2,6 +2,8 @@
 *Note: we will not read all of this, but these texts make up the discursive field we will enter.*
 
 ### Books
+Sutton, Matthew Avery, *American Apocalypse*, 2014
+
 Berardi, Franco "Bifo", [*And: Phenomenology of the End*](https://www.amazon.com/Phenomenology-End-Semiotext-Foreign-Agents/dp/1584351705), 2015
 
 Bratton, Benjamin, [*The Stack: On Software and Sovereignty*](https://www.amazon.com/Stack-Software-Sovereignty-Studies/dp/026202957X/ref=sr_1_1?s=books&ie=UTF8&qid=1504282453&sr=1-1&keywords=bratton+the+stack), 2016
@@ -49,9 +51,17 @@ Laboria Cuboniks, ["Xenofeminism: A Politics for Alienation"](http://www.laboria
 Srnicek, Nick and Alex Williams, ["#ACCELERATE MANIFESTO for an Accelerationist Politics"](http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/), 2013
 
 ### Essays
+Barbrook, Richard and Andy Cameron, ["The Californian Ideology"](http://www.comune.torino.it/gioart/big/bigguest/riflessioni/californian_engl.pdf), 1995
+
+Bernstein, Joseph, ["How to Make Millions of Hoverboards (Almost) Overnight"](https://www.buzzfeed.com/josephbernstein/how-to-make-millions-of-hoverboards-almost-overnight?utm_term=.bawyxby8VE#.qh5AZ1AMxO), BuzzFeed News, 2015
+
+Easterling, Keller, ["IIRS"](http://www.e-flux.com/journal/64/60837/iirs/), e-flux Journal, 2015
+
 Koolhaas, Rem, "Junkspace"
 
 Land, Nick, "Dark Enlightenment"
+
+Lepore, Jill, "The Disruption Machine", New Yorker, 2014
 
 Parisi, Luciana, "Automated Architecture", [*#Accelerate: The Accelerationist Reader*](https://www.amazon.com/Accelerate-Accelerationist-Reader-Robin-Mackay/dp/0957529554), 2014
 
@@ -64,6 +74,10 @@ Lewis-Williams, David, "The Signs of All Times: Entoptic Phenomena in Upper Pala
 
 ### Reports
 [K-Hole \#5, "A Report on Doubt"](http://khole.net/), 2016
+
+### Articles
+
+Garber, Megan, ["The First Google Doodle Was a Burning Man Stick Figure"](https://www.theatlantic.com/technology/archive/2013/09/the-first-google-doodle-was-a-burning-man-stick-figure/279416/), *The Atlantic*, Sept 6, 2013
 
 ### Feeds
 
