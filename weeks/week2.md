@@ -16,6 +16,7 @@
   * https://www.ribbonfarm.com/2007/09/24/strategy-tactics/
 * Stewart Brand, ["Spacewar"](http://www.wheels.org/spacewar/stone/rolling_stone.html), Rolling Stone, December 7, 1972
 * Gordon White, Star.Ships preface and chapter 1
+* Keller Easterling, *Extrastatecraft*, chapter 2
 
 ## Watchings
 * https://www.youtube.com/watch?v=cOubCHLXT6A
