@@ -43,6 +43,7 @@ White, Gordon, [*Star.Ships: A Prehistory of the Spirits*](https://www.amazon.co
 White, Gordon, [*The Chaos Protocols: Magical Techniques for Navigating the New Economic Reality*](https://www.amazon.com/Chaos-Protocols-Techniques-Navigating-Economic/dp/0738744719/ref=sr_1_1?s=books&ie=UTF8&qid=1504282043&sr=1-1&keywords=gordon+white+chaos+protocols), 2016
 White, Gordon, [*Pieces of Eight: Chaos Magic Essays and Enchantments*](https://www.amazon.com/Pieces-Eight-Chaos-Essays-Enchantments-ebook/dp/B01J9REBIQ/ref=sr_1_1?s=books&ie=UTF8&qid=1504282068&sr=1-1&keywords=gordon+white+piece+of+eight), 2016
 
+
 ### Manifestos
 ANON, ["#Altwoke Manifesto"](http://tripleampersand.org/alt-woke-manifesto/), 2017
 
@@ -50,12 +51,15 @@ Laboria Cuboniks, ["Xenofeminism: A Politics for Alienation"](http://www.laboria
 
 Srnicek, Nick and Alex Williams, ["#ACCELERATE MANIFESTO for an Accelerationist Politics"](http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/), 2013
 
+
 ### Essays
 Barbrook, Richard and Andy Cameron, ["The Californian Ideology"](http://www.comune.torino.it/gioart/big/bigguest/riflessioni/californian_engl.pdf), 1995
 
 Bernstein, Joseph, ["How to Make Millions of Hoverboards (Almost) Overnight"](https://www.buzzfeed.com/josephbernstein/how-to-make-millions-of-hoverboards-almost-overnight?utm_term=.bawyxby8VE#.qh5AZ1AMxO), BuzzFeed News, 2015
 
 Easterling, Keller, ["IIRS"](http://www.e-flux.com/journal/64/60837/iirs/), e-flux Journal, 2015
+
+Epstein, Robert, ["The Empty Brain: Your brain does not process information, retrieve knowledge or store memories. In short: your brain is not a computer"](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer), *Aeon*, 2016
 
 Koolhaas, Rem, "Junkspace"
 
