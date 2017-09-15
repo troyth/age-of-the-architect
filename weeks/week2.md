@@ -1,5 +1,18 @@
 # Week 2
 
+#Objective
+* What does VUCA (Volatility, Uncertainty, Complexity, Ambiguity) mean for architecture?
+* Is computing as a universal metaphor a threat to architecture?
+* What is Rao's Impasse and how does Keller attempt to bypass it?
+
+# Method: Speculative Discursive Field
+This week we will begin to build out our "speculative discursive field" by collectively creating:
+* glossary of concepts
+* mind map of the idea spaces of different authors
+* bibliography of related texts
+* list of valuable quotes
+* object list of case studies
+
 ## Readings
 * Venkatesh Rao, "Breaking Smart":
   * https://breakingsmart.com/en/season-1/a-new-soft-technology/
