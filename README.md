@@ -1,7 +1,7 @@
 # Age of the Architect
 *Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https://www.arch.columbia.edu/courses/72646-1635-age-of-the-architect), [university directory](http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/A6752-20173-001/), and [student courseworks](https://courseworks2.columbia.edu/courses/sis_course_id:ARCHA6752_001_2017_3/assignments/syllabus).*
 
-## Syllabus [v.0.8](https://github.com/troyth/age-of-the-architect/versions.md)
+## Syllabus [v.0.9](https://github.com/troyth/age-of-the-architect/versions.md)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? Why did 1/5 of Americans think Obama was the anti-Christ? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
@@ -48,17 +48,17 @@ One of the principal lessons of the seminar is that recent discoveries of our pr
 
 > If ‘Junkspace is what remains after modernization has run its course,’ then Junktime is the mess digitization has made of temporality. \(me, “Junkspace”, [After Belonging: Objects, Spaces, and Territories of the Ways We Stay in Transit](https://www.amazon.com/After-Belonging-Objects-Territories-Transit/dp/3037785209), 2016\)
 
-#### Week 2: Refactored Perception
+#### Week 2: Prometheanism, Normalization, Disposition
 
 > Experiments in refactored perceptions is a geek joke. It refers to changing how you see the world by trying to rewire the software inside your head through writing. \(Venkatesh Rao, [Ribbonfarm.com/about](https://www.ribbonfarm.com/about/)\)
 
 ![Ribbonfarm Greater Cultural Region, 2016](/assets/RibbonfarmMap2016.jpg)
 
-#### Week 3: Tempo
+#### Week 3: Counterculture, Cyberculture, Cryptoculture
 
-> Tempo: The set of characteristic rhythms of decision-making in the subjective life of an individual or organization, colored by associated patterns of emotion and energy. \(Venkatesh Rao, [Tempo glossary](http://www.tempobook.com/glossary/#tempo)\)
+> A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
-![John Boyd, Aerial Attack Study, 1964](/assets/boydaerialattack-84.png)
+![Superskynet ICO](/assets/superskynetICO.jpg)
 
 #### Week 4: Deep History
 
@@ -82,11 +82,13 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 ![K-HOLE #5, Chaos Magic](/assets/K-HOLE_ChaosMagicSpread.png)
 
-#### Week 8: Counterculture, Cyberculture, Cryptoculture
+#### Week 8: TK
 
-> A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
-![Superskynet ICO](/assets/superskynetICO.jpg)
+> Tempo: The set of characteristic rhythms of decision-making in the subjective life of an individual or organization, colored by associated patterns of emotion and energy. \(Venkatesh Rao, [Tempo glossary](http://www.tempobook.com/glossary/#tempo)\)
+
+![John Boyd, Aerial Attack Study, 1964](/assets/boydaerialattack-84.png)
+
 
 #### Week 9: Cathedrals
 

@@ -23,3 +23,6 @@ Adding readings and key terms
 
 ### 0.8
 Added placeholder Idea Space mind map
+
+### 0.9
+Changed week 3
