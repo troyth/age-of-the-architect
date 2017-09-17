@@ -1,11 +1,15 @@
 # Week 2
 
-#Objective
+## Objective
+* To swallow the Venkat Rao red pill and understand why architectural thinking is fraught in the 21st century
+* To unpack Keller Easterling's cybernetic epistemology and understand her implicit response to Subcritical Disease
+
+## Questions
 * What does VUCA (Volatility, Uncertainty, Complexity, Ambiguity) mean for architecture?
 * Is computing as a universal metaphor a threat to architecture?
 * What is Subcritical Disease and how does Keller attempt to bypass it?
 
-# Method: Speculative Discursive Field
+## Method: Speculative Discursive Field
 This week we will begin to build out our "speculative discursive field" by collectively creating:
 * glossary of concepts
 * mind map of the idea spaces of different authors
