@@ -1,12 +1,12 @@
 # Week 3:
 
-# Objective
+## Objective
 * To understand Bitcoin, Ethereum and the decentralizing and crypto-anarchic ideals they represent and implement
 
-## Schedule
+## Method: Discussion and Tutorial
 * This week will be broken down into seminar discussion like last week, and a tutorial on how Bitcoin and Ethereum work
 
-## Assignment
+## Assignment (due by noon Monday)
 * Set up your own Ethereum wallet on [myetherwallet.com](https://myetherwallet.com/), print your paper wallet and store it somewhere safe, then email Troy your public address
 
 ## Readings (in this order)
