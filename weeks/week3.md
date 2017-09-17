@@ -8,6 +8,7 @@
 
 ## Assignment (due by noon Monday)
 * Set up your own Ethereum wallet on [myetherwallet.com](https://myetherwallet.com/), print your paper wallet and store it somewhere safe, then email Troy your public address
+* Sign up for coggle.it and email Troy your username
 
 ## Readings (in this order)
 *Note: please read in the order below. Many of the texts are short and entertaining, so it should be a digestible amount. You may have already read most of the Rao readings.*
