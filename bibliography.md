@@ -15,7 +15,9 @@ Easterling, Keller, *Extrastatecraft: The Power of Infrastructure Space*, 2014
 Eliade, Mircea, *Shamanism*, 1951
 
 Hancock, Graham, *Fingerprints of the Gods*, 1995
+
 Hancock, Graham, *Supernatural*
+
 Hancock, Graham, *Magicians of the Gods*, 2016
 
 Lewis-Williams, David, [*The Mind in the Cave: Consciousness and the Origins of Art*](https://www.amazon.com/Mind-Cave-Consciousness-Origins-Art/dp/0500284652/ref=sr_1_1?s=books&ie=UTF8&qid=1504282379&sr=1-1&keywords=david+lewis-williams+mind+in+cave), 2004
@@ -26,7 +28,6 @@ McLuhan, Marshall, *Understanding Media*, 1964
 
 Narby, Jeremy, *The Cosmic Serpent*
 
-Rao, Venkatesh, *Breaking Smart*, 2014
 Rao, Venkatesh, *Tempo*
 
 Shanon, Benny, [*The Antipodes of the Mind: Charting the Phenomenology of the Ayahuasca Experience*](https://www.amazon.com/Antipodes-Mind-Phenomenology-Ayahuasca-Experience/dp/0199252939/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1504281858&sr=1-1-fkmr0&keywords=benny+shannon+antipodes+of+the+mind), 2003
@@ -40,7 +41,9 @@ Stiegler, Bernard, [*What Makes Life Worth Living: On Pharmacology*](https://www
 Turner, Fred, [*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*](https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423), 2008
 
 White, Gordon, [*Star.Ships: A Prehistory of the Spirits*](https://www.amazon.com/Star-Ships-Prehistory-Gordon-White/dp/0993120091/ref=sr_1_1?s=books&ie=UTF8&qid=1504282014&sr=1-1&keywords=gordon+white+star.ships), 2016
+
 White, Gordon, [*The Chaos Protocols: Magical Techniques for Navigating the New Economic Reality*](https://www.amazon.com/Chaos-Protocols-Techniques-Navigating-Economic/dp/0738744719/ref=sr_1_1?s=books&ie=UTF8&qid=1504282043&sr=1-1&keywords=gordon+white+chaos+protocols), 2016
+
 White, Gordon, [*Pieces of Eight: Chaos Magic Essays and Enchantments*](https://www.amazon.com/Pieces-Eight-Chaos-Essays-Enchantments-ebook/dp/B01J9REBIQ/ref=sr_1_1?s=books&ie=UTF8&qid=1504282068&sr=1-1&keywords=gordon+white+piece+of+eight), 2016
 
 
@@ -69,8 +72,12 @@ Lepore, Jill, "The Disruption Machine", New Yorker, 2014
 
 Parisi, Luciana, "Automated Architecture", [*#Accelerate: The Accelerationist Reader*](https://www.amazon.com/Accelerate-Accelerationist-Reader-Robin-Mackay/dp/0957529554), 2014
 
+Rao, Venkatesh, *Breaking Smart*, 2014
+
 Therrien, Troy Conrad, "Junktime", *After Belonging: Objects, Spaces, and Territories of the Ways We Stay in Transit*, 2016
+
 Therrien, Troy Conrad, "Social Soup", *Ed*, forthcoming
+
 Therrien, Troy Conrad, "The Promethean Gift Economy", *Volume*, Is.49, 2016
 
 ### Papers
@@ -90,3 +97,7 @@ Garber, Megan, ["The First Google Doodle Was a Burning Man Stick Figure"](https:
 [Rune Soup](https://runesoup.com/)
 
 ### Videos
+
+
+### Posts
+Rao, Venkatesh, [Facebook post on Fugue Mode](https://www.facebook.com/vgururao/posts/10155833122051907)
