@@ -26,3 +26,6 @@ Added placeholder Idea Space mind map
 
 ### 0.9
 Changed week 3
+
+### 0.10
+Updated syllabus intro and method

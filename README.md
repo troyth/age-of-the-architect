@@ -1,7 +1,7 @@
 # Age of the Architect
 *Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https://www.arch.columbia.edu/courses/72646-1635-age-of-the-architect), [university directory](http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/A6752-20173-001/), and [student courseworks](https://courseworks2.columbia.edu/courses/sis_course_id:ARCHA6752_001_2017_3/assignments/syllabus).*
 
-## Syllabus [v.0.9](https://github.com/troyth/age-of-the-architect/versions.md)
+## Syllabus [v.0.10](https://github.com/troyth/age-of-the-architect/versions.md)
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
