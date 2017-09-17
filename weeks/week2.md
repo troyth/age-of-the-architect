@@ -3,7 +3,7 @@
 #Objective
 * What does VUCA (Volatility, Uncertainty, Complexity, Ambiguity) mean for architecture?
 * Is computing as a universal metaphor a threat to architecture?
-* What is Rao's Impasse and how does Keller attempt to bypass it?
+* What is Subcritical Disease and how does Keller attempt to bypass it?
 
 # Method: Speculative Discursive Field
 This week we will begin to build out our "speculative discursive field" by collectively creating:
