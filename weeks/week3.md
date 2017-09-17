@@ -1,4 +1,4 @@
-# Week 3:
+# Week 3: Counterculture, Cyberculture, Cryptoculture
 
 ## Objective
 * To understand Bitcoin, Ethereum and the decentralizing and crypto-anarchic ideals they represent and implement

@@ -1,4 +1,4 @@
-# Week 2
+# Week 2: Prometheanism, Normalization, Disposition
 
 ## Objective
 * To swallow the Venkat Rao red pill and understand why architectural thinking is fraught in the 21st century
