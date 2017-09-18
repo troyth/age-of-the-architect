@@ -28,10 +28,8 @@
 * Bearman, Joshuah, "The Rise and Fall of Silk Road", [Part 1](https://www.wired.com/2015/04/silk-road-1/) and [Part 2](https://www.wired.com/2015/05/silk-road-2/), *Wired*, 2015
 * Veenspace, ["Ethereum: A Visual Explanation"](http://veenspace.com/ethereum)
 * Vitalik Buterin, ["Visions, Part 1: The Value of Blockchain Technology"](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/), Ethereum Blog, April 13, 2015
-* Venkatesh Rao, *Ribbonfarm*:
+* Rao, Venkatesh, *Ribbonfarm*:
   * https://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/
-  * https://www.ribbonfarm.com/2015/06/18/the-boydian-dialectic/
-  * https://www.ribbonfarm.com/2007/09/24/strategy-tactics/
   * https://www.ribbonfarm.com/2017/05/25/blockchains-never-forget/
 
 ## Watchings (optional)

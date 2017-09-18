@@ -101,6 +101,8 @@ Garber, Megan, ["The First Google Doodle Was a Burning Man Stick Figure"](https:
 [Rune Soup](https://runesoup.com/)
 
 ### Videos
+Curtis, Adam, ["Hypernormalisation"](https://www.youtube.com/watch?v=9aLQPNPlK5M), 2016
+
 Florin, Fabrice, ["Hackers: Wizards of the Electronic Age"](https://www.youtube.com/watch?v=zOP1LNr70aU), 1984
 
 Gibney, Alex, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)
