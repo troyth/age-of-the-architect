@@ -1,5 +1,5 @@
 # Age of the Architect
-*Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https://www.arch.columbia.edu/courses/72646-1635-age-of-the-architect), [university directory](http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/A6752-20173-001/), and [student courseworks](https://courseworks2.columbia.edu/courses/sis_course_id:ARCHA6752_001_2017_3/assignments/syllabus).*
+Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https://www.arch.columbia.edu/courses/72646-1635-age-of-the-architect), [university directory](http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/A6752-20173-001/), and [student courseworks](https://courseworks2.columbia.edu/courses/sis_course_id:ARCHA6752_001_2017_3/assignments/syllabus).
 
 *Note: I am using Github because this syllabus will be updated regularly. Changes will be reflected in the [commit logs](https://github.com/troyth/age-of-the-architect/commits/master).*
 
