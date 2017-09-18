@@ -43,6 +43,9 @@ Foucault codified the concept of a discursive field to map the history of ideas 
 #### Active Form (h/t Keller Easterling)
 > Disposition is the character or propensity of an organization that results from all its activity. It is the medium, not the message. It is not the pattern printed on the fabric but the way fabric floats. It is not the shape of the game piece but the way the game piece plays. It is not the text but the constantly updating software that manages the text. Not the object form, but the active form... Detecting and developing the active forms that shape disposition is an essential skill of the urbanist in infrastructure space. \(Keller Easterling, [Extrastatecraft: The Power of Infrastructure Space](https://www.amazon.com/Extrastatecraft-Power-Infrastructure-Keller-Easterling/dp/1784783641), 2014\)
 
+### Bibliography
+We will cull readings each week from [this ever-growing long list](bibliography.md) of books, manifestoes, essays, papers, reports, articles, videos, and social media posts.
+
 ### Schedule
 #### Week 1: Volatility, Uncertainty, Complexity, Ambiguity (VUCA)
 * [deck](https://drive.google.com/open?id=12QwGE667U_eidchOE4_lY_lP1IP35sWfhYSUKUGNiDk)
