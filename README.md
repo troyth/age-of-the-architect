@@ -73,6 +73,6 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 9: Hyperstition, Quantum Computing, Cosmology, Atlantis
 
-#### Week 10: Recontextualizing Classicism, Reenchanting Techne
+#### Week 10: Recontextualizing Classicism, Reenchanting Technē
 
 #### Week 11: Recontextualizing Modernism, Understanding Prometheanity
