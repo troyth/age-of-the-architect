@@ -57,18 +57,18 @@ Foucault codified the concept of a discursive field to map the history of ideas 
 * [readings](/weeks/week3.md#readings)
 * [watchings](/weeks/week3.md#watchings-optional)
 
-#### Week 5: Tempo, Refactoring, Post-Rationalism
+#### Week 4: Tempo, Refactoring, Post-Rationalism
 
-#### Week 6: Deep History, Alt-History, New History
+#### Week 5: Deep History, Alt-History, New History
 
-#### Week 7: Entheogens, Cave Art, Shamanism
+#### Week 6: Entheogens, Cave Art, Shamanism
 
-#### Week 8: Chaos Magic, Hermeticism, Gnosticism, Atlantis
+#### Week 7: Chaos Magic, Hermeticism, Gnosticism, Atlantis
 
-#### Week 9: Dark Enlightenment, Cathedrals, Bazaars
+#### Week 8: Dark Enlightenment, Cathedrals, Bazaars
 
-#### Week 10: Hyperstition and the Breakaway Civilization
+#### Week 9: Hyperstition and the Breakaway Civilization
 
-#### Week 11: Recontextualizing Classicism
+#### Week 10: Recontextualizing Classicism
 
-#### Week 12: Recontextualizing Modernism
+#### Week 11: Recontextualizing Modernism
