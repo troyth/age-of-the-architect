@@ -32,7 +32,7 @@ McLuhan, Marshall, *Understanding Media*, 1964
 
 Nagle, Angela, [*Kill All Normies: Online Culture Wars From 4Chan And Tumblr To Trump And The Alt-Right*](https://www.amazon.com/Kill-All-Normies-Culture-Alt-Right/dp/1785355430/ref=pd_lutyp_cxhsh_1_2?_encoding=UTF8&pd_rd_i=1785355430&pd_rd_r=QYN75VM1FBPE125V3374&pd_rd_w=MdR9N&pd_rd_wg=NXOw3&psc=1&refRID=QYN75VM1FBPE125V3374), 2017
 
-Narby, Jeremy, *The Cosmic Serpent*
+Narby, Jeremy, *The Cosmic Serpent*, 1998
 
 Rao, Venkatesh, *Tempo*
 
@@ -45,6 +45,8 @@ Srnicek, Nick and Alex Williams, [*Inventing the Future: Postcapitalism and a Wo
 Stiegler, Bernard, [*What Makes Life Worth Living: On Pharmacology*](https://www.amazon.com/What-Makes-Life-Worth-Living/dp/0745662714), 2013
 
 Turner, Fred, [*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*](https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423), 2008
+
+Velikovsky, Immanuel, [*Ages in Chaos: A Reconstruction of Ancient History from the Exodus to King Akhnaton*](https://en.m.wikipedia.org/wiki/Ages_in_Chaos), 1952
 
 White, Gordon, [*Star.Ships: A Prehistory of the Spirits*](https://www.amazon.com/Star-Ships-Prehistory-Gordon-White/dp/0993120091/ref=sr_1_1?s=books&ie=UTF8&qid=1504282014&sr=1-1&keywords=gordon+white+star.ships), 2016
 
