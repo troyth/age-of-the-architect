@@ -112,5 +112,7 @@ Gibney, Alex, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)
 
 Srinivasan, Balaji, ["Silicon Valley's Ultimate Exit"](https://www.youtube.com/watch?v=cOubCHLXT6A), 2013
 
+Geordie Rose, ["Quantum Computing and Three Dangerous Predictions"](https://www.youtube.com/watch?v=MyUbWl8jPQU), 2013
+
 ### Social Media Posts
 Rao, Venkatesh, [Facebook post on Fugue Mode](https://www.facebook.com/vgururao/posts/10155833122051907)

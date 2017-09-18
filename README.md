@@ -71,7 +71,7 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 8: Dark Enlightenment, Cathedrals, Bazaars
 
-#### Week 9: Hyperstition and the Breakaway Civilization
+#### Week 9: Hyperstition, Quantum Computing, the Breakaway Civilization
 
 #### Week 10: Recontextualizing Classicism
 
