@@ -67,12 +67,12 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 6: Entheogens, Cave Art, Shamanism
 
-#### Week 7: Chaos Magic, Hermeticism, Gnosticism, Atlantis
+#### Week 7: Chaos Magic, Hermeticism, Gnosticism
 
 #### Week 8: Dark Enlightenment, Cathedrals, Bazaars
 
-#### Week 9: Hyperstition, Quantum Computing, the Breakaway Civilization
+#### Week 9: Hyperstition, Quantum Computing, Cosmology, Atlantis
 
-#### Week 10: Recontextualizing Classicism
+#### Week 10: Recontextualizing Classicism, Reenchanting Techne
 
-#### Week 11: Recontextualizing Modernism
+#### Week 11: Recontextualizing Modernism, Understanding Prometheanity
