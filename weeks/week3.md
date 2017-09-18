@@ -1,16 +1,23 @@
 # Week 3: Counterculture, Cyberculture, Cryptoculture
 
+![Superskynet ICO](/assets/superskynetICO.jpg)
+
+> A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
+
 ## Objective
 * To understand Bitcoin, Ethereum and the decentralizing and crypto-anarchic ideals they represent and implement
 
 ## Method: Discussion and Tutorial
-* This week will be broken down into seminar discussion like last week, and a tutorial on how Bitcoin and Ethereum work
+* This week will be broken down into a discussion and a tutorial on how Bitcoin and Ethereum work
+* Please bring a laptop if you have access to one
 
-## Assignment (due by noon Monday)
+## Assignment
+*Note: Due by noon Monday, September 18.*
+
 * Set up your own Ethereum wallet on [myetherwallet.com](https://myetherwallet.com/), print your paper wallet and store it somewhere safe, then email Troy your public address
 * Sign up for coggle.it and email Troy your username
 
-## Readings (in this order)
+## Readings
 *Note: please read in the order below. Many of the texts are short and entertaining, so it should be a digestible amount. You may have already read most of the Rao readings.*
 
 * The Mentor, ["The Conscience of a Hacker"](http://phrack.org/issues/7/3.html), 1986
@@ -28,4 +35,4 @@
   * https://www.ribbonfarm.com/2017/05/25/blockchains-never-forget/
 
 ## Watchings (optional)
-* Alex Gibney, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)
+* Gibney, Alex, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)

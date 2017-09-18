@@ -29,3 +29,6 @@ Changed week 3
 
 ### 0.10
 Updated syllabus intro and method
+
+### 0.11
+Updated the weekly schedule and moved content into the /weeks folder

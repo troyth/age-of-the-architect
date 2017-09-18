@@ -20,11 +20,17 @@ Hancock, Graham, *Supernatural*
 
 Hancock, Graham, *Magicians of the Gods*, 2016
 
+Hui, Yuk, [*The Question Concerning Technology in China: An Essay in Cosmotechnics*](https://www.amazon.com/Question-Concerning-Technology-China/dp/0995455007/ref=sr_1_1?ie=UTF8&qid=1505753094&sr=8-1&keywords=the+question+concerning+technology+in+china), 2016
+
+Koolhaas, Rem, *Delirious New York: A Retroactive Manifesto for Manhattan*, 1978
+
 Lewis-Williams, David, [*The Mind in the Cave: Consciousness and the Origins of Art*](https://www.amazon.com/Mind-Cave-Consciousness-Origins-Art/dp/0500284652/ref=sr_1_1?s=books&ie=UTF8&qid=1504282379&sr=1-1&keywords=david+lewis-williams+mind+in+cave), 2004
 
 Mackay, Robin and Armen Avanessian, [*#Accelerate: The Accelerationist Reader*](https://www.amazon.com/Accelerate-Accelerationist-Reader-Robin-Mackay/dp/0957529554), 2014
 
 McLuhan, Marshall, *Understanding Media*, 1964
+
+Nagle, Angela, [*Kill All Normies: Online Culture Wars From 4Chan And Tumblr To Trump And The Alt-Right*](https://www.amazon.com/Kill-All-Normies-Culture-Alt-Right/dp/1785355430/ref=pd_lutyp_cxhsh_1_2?_encoding=UTF8&pd_rd_i=1785355430&pd_rd_r=QYN75VM1FBPE125V3374&pd_rd_w=MdR9N&pd_rd_wg=NXOw3&psc=1&refRID=QYN75VM1FBPE125V3374), 2017
 
 Narby, Jeremy, *The Cosmic Serpent*
 
@@ -66,7 +72,7 @@ Epstein, Robert, ["The Empty Brain: Your brain does not process information, ret
 
 Koolhaas, Rem, "Junkspace"
 
-Land, Nick, "Dark Enlightenment"
+Land, Nick, ["Dark Enlightenment"](http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/)
 
 Lepore, Jill, "The Disruption Machine", New Yorker, 2014
 
@@ -87,17 +93,19 @@ Lewis-Williams, David, "The Signs of All Times: Entoptic Phenomena in Upper Pala
 [K-Hole \#5, "A Report on Doubt"](http://khole.net/), 2016
 
 ### Articles
-
 Garber, Megan, ["The First Google Doodle Was a Burning Man Stick Figure"](https://www.theatlantic.com/technology/archive/2013/09/the-first-google-doodle-was-a-burning-man-stick-figure/279416/), *The Atlantic*, Sept 6, 2013
 
 ### Feeds
-
 [Ribbonfarm](https://www.ribbonfarm.com/)
 
 [Rune Soup](https://runesoup.com/)
 
 ### Videos
+Florin, Fabrice, ["Hackers: Wizards of the Electronic Age"](https://www.youtube.com/watch?v=zOP1LNr70aU), 1984
 
+Gibney, Alex, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)
 
-### Posts
+Srinivasan, Balaji, ["Silicon Valley's Ultimate Exit"](https://www.youtube.com/watch?v=cOubCHLXT6A), 2013
+
+### Social Media Posts
 Rao, Venkatesh, [Facebook post on Fugue Mode](https://www.facebook.com/vgururao/posts/10155833122051907)

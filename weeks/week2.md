@@ -1,5 +1,9 @@
 # Week 2: Prometheanism, Normalization, Disposition
 
+![Ribbonfarm Greater Cultural Region, 2016](/assets/RibbonfarmMap2016.jpg)
+
+> Increased anxiety is only one dimension of how we experience change. Another dimension is a constant sense of crisis (which has, incidentally, always prevailed in history)... A third dimension is a constant feeling of chaos held at bay (another constant in history), just beyond the firewall of everyday routine (the Field is everyday routine). \(Venkatesh Rao, ["Welcome to the Future Nauseous"](https://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/)\)
+
 ## Objective
 * To swallow the Venkat Rao red pill and understand why architectural thinking is fraught in the 21st century
 * To unpack Keller Easterling's cybernetic epistemology and understand her implicit response to Subcritical Disease
@@ -32,9 +36,8 @@ This week we will begin to build out our "speculative discursive field" by colle
   * https://www.ribbonfarm.com/2015/06/18/the-boydian-dialectic/
   * https://www.ribbonfarm.com/2007/09/24/strategy-tactics/
 * Stewart Brand, ["Spacewar"](http://www.wheels.org/spacewar/stone/rolling_stone.html), Rolling Stone, December 7, 1972
-* Gordon White, Star.Ships preface and chapter 1
 * Keller Easterling, *Extrastatecraft*, chapter 2
 
 ## Watchings
-* https://www.youtube.com/watch?v=cOubCHLXT6A
-* https://www.youtube.com/watch?v=zOP1LNr70aU
+* Srinivasan, Balaji, ["Silicon Valley's Ultimate Exit"](https://www.youtube.com/watch?v=cOubCHLXT6A), 2013
+* Florin, Fabrice, ["Hackers: Wizards of the Electronic Age"](https://www.youtube.com/watch?v=zOP1LNr70aU), 1984
