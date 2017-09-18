@@ -52,6 +52,7 @@ White, Gordon, [*The Chaos Protocols: Magical Techniques for Navigating the New 
 
 White, Gordon, [*Pieces of Eight: Chaos Magic Essays and Enchantments*](https://www.amazon.com/Pieces-Eight-Chaos-Essays-Enchantments-ebook/dp/B01J9REBIQ/ref=sr_1_1?s=books&ie=UTF8&qid=1504282068&sr=1-1&keywords=gordon+white+piece+of+eight), 2016
 
+Wigley, Mark, [*The Architecture of Deconstruction: Derrida's Haunt*](https://mitpress.mit.edu/books/architecture-deconstruction), 1993
 
 ### Manifestos
 ANON, ["#Altwoke Manifesto"](http://tripleampersand.org/alt-woke-manifesto/), 2017
