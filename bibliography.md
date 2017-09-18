@@ -96,6 +96,8 @@ Lewis-Williams, David, "The Signs of All Times: Entoptic Phenomena in Upper Pala
 ### Articles
 Garber, Megan, ["The First Google Doodle Was a Burning Man Stick Figure"](https://www.theatlantic.com/technology/archive/2013/09/the-first-google-doodle-was-a-burning-man-stick-figure/279416/), *The Atlantic*, Sept 6, 2013
 
+Nicholas, Gabriel, ["Ethereum is Coding's New Wild West"](https://www.wired.com/story/ethereum-is-codings-new-wild-west), 2017
+
 Osnos, Evan, ["Doomsday Prep for the Super Rich"](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich), *New Yorker*, 2017
 
 ### Blogs
