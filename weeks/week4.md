@@ -1,5 +1,5 @@
+# IN PROGRESS
 Week 4: Tempo, Refactoring, Post-Rationalism
-**IN PROGRESS**
 
 ![John Boyd, Aerial Attack Study, 1964](/assets/boydaerialattack-84.png)
 
