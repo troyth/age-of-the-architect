@@ -65,7 +65,7 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 5: Deep History, Alt-History, New History
 
-#### Week 6: Entheogens, Cave Art, Shamanism
+#### Week 6: Entheogens, Cave Art, Shamanism, Superorganisms
 
 #### Week 7: Chaos Magic, Hermeticism, Gnosticism
 
