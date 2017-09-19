@@ -67,7 +67,7 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 6: Entheogens, Cave Art, Shamanism, Superorganisms
 
-#### Week 7: Chaos Magic, Hermeticism, Gnosticism
+#### Week 7: Chaos Magic, Meme Magic, Hermeticism, Gnosticism
 
 #### Week 8: Dark Enlightenment, Cathedrals, Bazaars
 
