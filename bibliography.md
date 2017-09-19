@@ -14,6 +14,8 @@ Easterling, Keller, *Extrastatecraft: The Power of Infrastructure Space*, 2014
 
 Eliade, Mircea, *Shamanism*, 1951
 
+Haidt, Jonathan, [*The Righteous Mind: Why Good People Are Divided By Politics and Religion*](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777), 2013
+
 Hancock, Graham, *Fingerprints of the Gods*, 1995
 
 Hancock, Graham, *Supernatural*
