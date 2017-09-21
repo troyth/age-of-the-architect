@@ -5,7 +5,8 @@
 > A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
 ## Objective
-* To understand Bitcoin, Ethereum and the decentralizing and crypto-anarchic ideals they represent and implement
+* To understand the 70 history of tech culture and the strands of it that Cryptoculture embodies
+* To understand the mechanics of blockchain dynamics
 
 ## Method: Discussion and Tutorial
 * This week will be broken down into a discussion and a tutorial on how Bitcoin and Ethereum work
@@ -34,3 +35,42 @@
 
 ## Watchings (optional)
 * Gibney, Alex, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)
+* Blank, Steve, ["The Secret History of Silicon Valley"](https://www.youtube.com/watch?v=ZTC_RxWN_xo), 2008
+
+## In Class
+### Review: Week 2 Key Ideas
+* Exit
+* Prometheanism
+* Normalization
+* Disposition
+
+### Discussion: Key Ideas from Readings
+* continue to build Idea Space mind map
+* start to define key terms
+
+### Lecture: History of Cryptoculture
+* Vannevar Bush: memex and Endless Frontier
+* MIT Rad Lab
+* MIT Model Tech and Railway Club
+
+#### Rad Lab Strand
+* Frederick Terman & Hewlett Packard
+* William Shockley: Bell Labs
+* Traitorous Eight
+* Paul Rand: RAND Corp
+
+#### Hacker Strand
+
+* Bush
+* Terman
+
+* Brand
+
+* McLuhan
+* Fuller
+
+* Dropouts: Jobs, Gates, Zuckerberg, Buterin
+
+
+### Tutorial: The Blockchain
+*

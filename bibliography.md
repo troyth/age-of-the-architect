@@ -91,6 +91,8 @@ Therrien, Troy Conrad, "Social Soup", *Ed*, forthcoming
 
 Therrien, Troy Conrad, "The Promethean Gift Economy", *Volume*, Is.49, 2016
 
+Thiel, Peter, ["The Education of a Libertarian"](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian), 2009
+
 ### Papers
 Lewis-Williams, David, "The Signs of All Times: Entoptic Phenomena in Upper Palaeolithic Art", 1988
 
@@ -104,12 +106,16 @@ Nicholas, Gabriel, ["Ethereum is Coding's New Wild West"](https://www.wired.com/
 
 Osnos, Evan, ["Doomsday Prep for the Super Rich"](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich), *New Yorker*, 2017
 
+Tarnoff, Ben, ["Donald Trump, Peter Thiel and the death of democracy"](https://www.theguardian.com/technology/2016/jul/21/peter-thiel-republican-convention-speech), 2016
+
 ### Blogs
 [Ribbonfarm](https://www.ribbonfarm.com/)
 
 [Rune Soup](https://runesoup.com/)
 
 ### Videos
+* Blank, Steve, ["The Secret History of Silicon Valley"](https://www.youtube.com/watch?v=ZTC_RxWN_xo), 2008
+
 Curtis, Adam, ["Hypernormalisation"](https://www.youtube.com/watch?v=9aLQPNPlK5M), 2016
 
 Florin, Fabrice, ["Hackers: Wizards of the Electronic Age"](https://www.youtube.com/watch?v=zOP1LNr70aU), 1984

@@ -69,9 +69,9 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 7: Chaos Magic, Meme Magic, Hermeticism, Gnosticism
 
-#### Week 8: Dark Enlightenment, Cathedrals, Bazaars
+#### Week 8: Dark Enlightenment / NRx, Cathedrals, Bazaars
 
-#### Week 9: Hyperstition, Quantum Computing, Cosmology, Atlantis
+#### Week 9: Hyperstition, Quantum Computing, Cosmology, Techno-Paganism, Techno-Occult
 
 #### Week 10: Recontextualizing Classicism, Reenchanting Technē
 
