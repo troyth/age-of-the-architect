@@ -1,4 +1,5 @@
-# Week 9: Hyperstition and the Breakaway Civilization
+# IN PROGRESS
+Week 9: Hyperstition and the Breakaway Civilization
 
 ![Ccru, Naturalization of the Techno-Magical Will](/assets/hyperstition.jpg)
 
@@ -9,10 +10,15 @@
 ## Topics
 * survivalism
 * MKULTRA, MKOFTEN, Stargate
+* Occult History of Technology
+  * Jack Parsons
+  * Norbert Weiner
+  * Quantum Computing
 
 
 ## Readings
 * Osnos, Evan, ["Doomsday Prep for the Super Rich"](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich), *New Yorker*, 2017
+* Weiner, Norbert, *Cybernetics*
 
 ## Watchings
 * Geordie Rose, ["Quantum Computing and Three Dangerous Predictions"](https://www.youtube.com/watch?v=MyUbWl8jPQU), 2013

@@ -1,1 +1,2 @@
-#### Week 11: Recontextualizing Modernism
+# IN PROGRESS
+Week 11: Recontextualizing Modernism

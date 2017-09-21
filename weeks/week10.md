@@ -1,1 +1,2 @@
-#### Week 10: Recontextualizing Classicism
+# IN PROGRESS
+Week 10: Recontextualizing Classicism
