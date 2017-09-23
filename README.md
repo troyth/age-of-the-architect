@@ -20,13 +20,13 @@ We will begin with a wake up call from tech theorist Venkatesh Rao. Put simply, 
 White's *Star.Ships: A Prehistory of the Spirits* allows us to paint a picture of pre-Platonic architecture, filling in the pre-history of Wigley's Derridean insights by recontextualizing the origins of architecture with new perspectives on the historical agency of psychedelics, shamanism, star lore, the occult, and other esoteric knowledge, particularly magic. Ethereum's smart contracts allow us to make and deploy active forms into the world.
 
 ### Deliverables
-*Note: there will be two options for deliverables that we will decide as a group in week 3.*
+*Note: there were two options for deliverables. The class unanimously decided on the following.*
 
-#### Option 1: Cryptocurrency ICO
-We will launch our own EC-20 compliant cryptocurrency on the Ethereum blockchain through an Initial Coin Offering (ICO). Each student will contribute to various aspects of the project, including: developing the concept, writing the whitepaper, writing the smart contract for the ICO, branding and graphics, building the website, and community management and hype.
+#### Cryptocurrency ICO
+We will build and launch a project that interacts with the Ethereum blockchain, possibly through an Initial Coin Offering (ICO). Each student will contribute to various aspects of the project, including: developing the concept, writing the whitepaper, writing the smart contract for the ICO, branding and graphics, building the website, and community management and hype.
 
-#### Option 2: Recontextualizing 'Architect' and 'Architecture'
-We will collectively define both 'architect' and 'architecture' by applying the insights from our weekly readings and discussions to a running group definition of each, and running personal definitions. This will include presentations that profile architects that belong to what Michael Witzel calls "grandmother stories"–Hiram Abiff, Imhotep, Vitruvius, Phidias, Daedalus–and recontextualizations of the discipline's "grandfather stories" by considering occult interpretations omitted from the canon–Thomas Jefferson, Christopher Wren, as well as architects more publicly engaging the esoteric, such as Bernard Maybeck and Christopher Alexander. Each student will ultimately produce a presentation and research book\(let\) that corresponds to one of the topics of the Guggenheim exhibition.
+#### Colony.io
+We will use Colony.io to organize our collective efforts and keep track of each students contribution. This accounting will contribute 70% to each student's final grade.
 
 
 ### Methodology
