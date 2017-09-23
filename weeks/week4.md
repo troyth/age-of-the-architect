@@ -15,6 +15,6 @@
 ### Lecture and Tutorial: Introduction to Ethereum
 
 ### Discussion
-* Subcritical Disease
+* Critical, Post-Critical, Subcritical
 * technē, magic, invention
 * rationalism, post-rationalism, pre-rationalism and theory
