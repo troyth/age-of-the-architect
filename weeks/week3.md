@@ -1,4 +1,4 @@
-# Week 3: Counterculture, Cyberculture, Cryptoculture
+# Week 3: Hackers, Cyberpunks, Cypherpunks, Crypto-Anarchists,... Blockchain
 
 ![Superskynet ICO](/assets/superskynetICO.jpg)
 
@@ -48,29 +48,12 @@
 * continue to build Idea Space mind map
 * start to define key terms
 
-### Lecture: History of Cryptoculture
-* Vannevar Bush: memex and Endless Frontier
-* MIT Rad Lab
-* MIT Model Tech and Railway Club
+### Short Lecture: Hacker History
+* From the MIT Model Tech and Railway Club to SpaceWar, WarGames, Cyberspace, Digital Dualism, Digital Physics, and Kevin Mitnick to Hacker hostels, 1 Hacker Way and Anonymous
 
-#### Rad Lab Strand
-* Frederick Terman & Hewlett Packard
-* William Shockley: Bell Labs
-* Traitorous Eight
-* Paul Rand: RAND Corp
-
-#### Hacker Strand
-
-* Bush
-* Terman
-
-* Brand
-
-* McLuhan
-* Fuller
-
-* Dropouts: Jobs, Gates, Zuckerberg, Buterin
-
-
-### Tutorial: The Blockchain
-*
+### Tutorial: Introduction to the Blockchain
+* cryptographic functions and hashes
+* public key encryption and zero-knowledge proofs
+* double spend problem and the Blockchain solution
+* Bitcoin
+* exchanges, hacks, and volatility on the frontier
