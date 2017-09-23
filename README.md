@@ -61,7 +61,8 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 * [readings](/weeks/week3.md#readings)
 * [watchings](/weeks/week3.md#watchings-optional)
 
-#### Week 4: Pre-Rationalism, Rationalism, Post-Rationalism
+#### Week 4: Crisis, Rationalism, Technē, Theory
+* [readings and watchings](/weeks/week4.md)
 
 #### Week 5: Deep History, Alt-History, New History
 
