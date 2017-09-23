@@ -1,21 +1,12 @@
-# IN PROGRESS
-Week 4: Tempo, Refactoring, Post-Rationalism
+# Week 4: Crisis, Rationalism, Technē, Theory
 
-![John Boyd, Aerial Attack Study, 1964](/assets/boydaerialattack-84.png)
+## Readings and Watchings
+*Note: please consume in this order.*
 
-> Tempo: The set of characteristic rhythms of decision-making in the subjective life of an individual or organization, colored by associated patterns of emotion and energy. \(Venkatesh Rao, [Tempo glossary](http://www.tempobook.com/glossary/#tempo)\)
-
-
-
-
-## Readings
-*Note: this is not yet complete.*
-* Rao, Venkat, [*Tempo: Timing Tactics and Strategy in Narrative-Driven Decision-Making*](https://www.amazon.com/Tempo-tactics-strategy-narrative-driven-decision-making/dp/0982703007), 2011: Chapter 3
-* Rao, Venkat, [Facebook post on "Fugue Mode"](https://www.facebook.com/vgururao/posts/10155833122051907), 2017
-* Rao, Venkatesh, *Ribbonfarm*:
-  * https://www.ribbonfarm.com/2015/06/18/the-boydian-dialectic/
-  * https://www.ribbonfarm.com/2007/09/24/strategy-tactics/
-* Therrien, Troy Conrad, "Junktime", 2016
-
-## Watchings
-* Curtis, Adam, ["Hypernormalisation"](https://www.youtube.com/watch?v=9aLQPNPlK5M), 2016
+* /[watch/] Wigley, Mark, "Flash Theory" (on GSAPP YouTube channel), 2014
+* /[read/] Rao, Venkatesh, "We Are All Architects Now", 2015
+* /[read/] Parcells, Stephen, *Four Definitions of Architecture*, 2012: Chapter 2, "Architecture as *Technē*"
+* /[read/] Pérez-Gómez, Alberto, *Timely Meditations: Selected Essays on Architecture*, vol. 1, 2016
+  * Chapter 1, "The Myth of Daedalus: On the Architect's *métier*"
+  * Chapter 2, "Architectural Theory in Classical Antiquity: Reflections on Some Key Concepts"
+* /[read/] Wigley, Mark, *The Architecture of Deconstruction: Derrida's Haunt*, 1993: Chapter 1, "The Translation of Deconstruction"
