@@ -1,5 +1,8 @@
 # IN PROGRESS
-Week 9: Hyperstition and the Breakaway Civilization
+Week 9: Consciousness Effects, Hyperstition and the Breakaway Civilization
+
+> For any initiatory ritual to ‘work,’ be it a Heb Sed or the installation of a new tribal chieftain or shaman, it must necessarily be experienced as consciousness effects. \(Gordon White, *Star.Ships: A Prehistory of the Spirits*, 2016, p.258\)
+
 
 ![Ccru, Naturalization of the Techno-Magical Will](/assets/hyperstition.jpg)
 

@@ -1,5 +1,5 @@
 # IN PROGRESS
-Week 5: Deep History, Alt-History
+Week 5: Alt-Archaeology, Archaeoastronomy, Göbekli Tepe and Nabta Playa
 
 ![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
 
@@ -11,7 +11,14 @@ history. \(me, "Social Soup", Ed, is.1, forthcoming\)
 
 
 ## Readings
-* Gordon White, Star.Ships preface and chapter 1
+* Gordon White, *Star.Ships: A Prehistory of the Spirits*, Preface and Chapters 1-2
+* Hollier, Denis, *Against Architecture: The Writings of George's Bataille*
 
 ## Watchings
-* Graham Hancock
+* Graham Hancock x2
+
+
+## In Class
+### Discuss Readings
+
+### Lecture on OOPArts
