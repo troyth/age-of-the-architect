@@ -56,7 +56,7 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 * [watchings](/weeks/week2.md#watchings)
 * [mind map](https://coggle.it/diagram/WbnkHAem7QAB-f2Z/c8bacaa8e948561d41b859bcf0721545002be5ee00b823673bc97e0d9b4e3fdd)
 
-#### Week 3: Hacker, Cyberpunk, Cypherpunk, Crypto-Anarchist
+#### Week 3: Hacker, Cyberpunk, Cypherpunk, Crypto-Anarchist, and the Blockchain
 * [outline](/weeks/week3.md)
 * [readings](/weeks/week3.md#readings)
 * [watchings](/weeks/week3.md#watchings-optional)

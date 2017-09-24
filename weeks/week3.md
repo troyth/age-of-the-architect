@@ -1,4 +1,4 @@
-# Week 3: Hackers, Cyberpunks, Cypherpunks, Crypto-Anarchists,... Blockchain
+# Week 3: Hacker, Cyberpunk, Cypherpunk, Crypto-Anarchist, and the Blockchain
 
 > A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
