@@ -10,3 +10,6 @@ Garbagetime
 Agility
 Kanban
 Lean
+
+Diffusionism
+Catastrophism
