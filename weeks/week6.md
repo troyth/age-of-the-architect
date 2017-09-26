@@ -6,3 +6,6 @@ Week 6: Entheogens, Cave Art, Shamanism
 Add EP? Dunbar?
 
 * Smail, Daniel Lord, "Is Culture Just a Drug?"
+
+
+https://bitcointalk.org/index.php?topic=571359
