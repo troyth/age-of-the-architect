@@ -13,8 +13,16 @@
 
 ## In Class (subject to change)
 ### Lecture and Tutorial: Introduction to Ethereum
+Link to deck
 
 ### Discussion
-* Critical, Post-Critical, Subcritical
-* technē, magic, invention
-* rationalism, post-rationalism, pre-rationalism and theory
+* summarize Wigley's texts
+* Question: how to reconcile Wigley's two big ideas?
+* summarize Venkat's text
+* Illustration: history as a market of narratives
+* Question: what does Venkat think of Wigley's big idea of making appear?
+* Compare: Venkat and Wigley's approaches to theory
+* list insights from ancient texts and build out mind map
+* Question: how does technē compare to hacking?
+* Question: hos can we now speak differently about AI, blockchain, genetic engineering, and quantum computing?
+* Question: what is the relationship to Burning Man? (Mousike)
