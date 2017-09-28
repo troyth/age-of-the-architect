@@ -16,9 +16,9 @@
 Link to deck
 
 ### Discussion
-* summarize Wigley's texts
+* Summarize: Wigley's texts
 * Question: how to reconcile Wigley's two big ideas?
-* summarize Venkat's text
+* Summarize: Venkat's text
 * Illustration: history as a market of narratives
 * Question: what does Venkat think of Wigley's big idea of making appear?
 * Compare: Venkat and Wigley's approaches to theory
