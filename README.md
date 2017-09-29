@@ -61,10 +61,10 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 * [readings](/weeks/week3.md#readings)
 * [watchings](/weeks/week3.md#watchings-optional)
 
-#### Week 4: Crisis, Rationalism, Technē, Theory
+#### Week 4: Critical Path, Rationalism, Technē, Theory
 * [readings and watchings](/weeks/week4.md)
 
-#### Week 5: Alt-Archaeology, Archaeoastronomy, Göbekli Tepe and Nabta Playa
+#### Week 5: Alt-Archaeology, Archaeoastronomy, Materialism, Magical Thinking
 * [outline](/weeks/week5.md)
 * [readings](/weeks/week5.md#readings)
 * [watchings](/weeks/week5.md#watchings)

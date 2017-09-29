@@ -1,4 +1,4 @@
-# Week 4: Crisis, Rationalism, Technē, Theory
+# Week 4: Critical Path, Rationalism, Technē, Theory
 
 ![Superskynet ICO](/assets/superskynetICO.jpg)
 

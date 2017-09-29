@@ -1,4 +1,4 @@
-# Week 5: Alt-Archaeology, Archaeoastronomy, Göbekli Tepe and Nabta Playa
+# Week 5: Alt-Archaeology, Archaeoastronomy, Materialism, Magical Thinking
 
 ![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
 
@@ -16,8 +16,14 @@
 
 ## In Class
 ### Discussion
+* pre-Platonic technē
+* archeoastronomy
+* alt-history
+* materialism
+* recontextualization
 
-### Lecture: Introduction to Magic
+### Lecture: Introduction to Magical Thinking
+* Venkat Rao and the scientific sensibility
 * Ramsey Dukes and magic
-* Pete Carroll and Chaos Magic
+
 

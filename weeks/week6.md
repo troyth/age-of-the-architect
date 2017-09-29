@@ -9,3 +9,8 @@ Add EP? Dunbar?
 
 
 https://bitcointalk.org/index.php?topic=571359
+
+Magic
+* Scientific Sensibility
+* Ramsey Dukes, SSOTBME
+
