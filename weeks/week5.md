@@ -1,4 +1,4 @@
-# Week 5: Alt-Archaeology, Archaeoastronomy, Materialism, Magical Thinking
+# Week 5: Alt-Archaeology, Archaeoastronomy, Materialism, Magic
 
 ![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
 
