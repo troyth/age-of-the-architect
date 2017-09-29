@@ -17,7 +17,7 @@ Some such discoveries are too hot for history; their implications too radical fo
 
 We will begin with a wake up call from tech theorist Venkatesh Rao. Put simply, he sites the Promethean fire of Silicon Valley squarely in its anti-architectural metaphysics: "Big Men" like Elon Musk and Jeff Bezos determine the "critical path" of "Big History" precisely because they subvert the zero sum thinking of an architectural worldview. To find agency for architecture in this regime, we look first to Keller Easterling and Mark Wigley. Easterling suggests designing "active forms"; Wigley suggests the power of architecture is bound up in its primacy as a metaphor. Together, they get us half way. To cross the finish line, we look to chaos magician Gordon White and the Ethereum block chain.
 
-White's *Star.Ships: A Prehistory of the Spirits* allows us to paint a picture of pre-Platonic architecture, filling in the pre-history of Wigley's Derridean insights by recontextualizing the origins of architecture with new perspectives on the historical agency of psychedelics, shamanism, star lore, the occult, and other esoteric knowledge, particularly magic. Ethereum's smart contracts allow us to make and deploy active forms into the world.
+White's *Star.Ships: A Prehistory of the Spirits* allows us to speculate on the pre-history of Wigley's Derridean insights by recontextualizing the origins of architecture with new perspectives on the history of psychedelics, shamanism, star lore, the occult, and other esoteric knowledge, particularly magic. Ethereum's smart contracts allow us to make and deploy active forms into the world.
 
 ### Deliverables
 *Note: there were two options for deliverables. The class unanimously decided on the following.*
