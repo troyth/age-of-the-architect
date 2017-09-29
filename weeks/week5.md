@@ -2,6 +2,9 @@
 
 ![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
 
+## Assignment
+* research and analyze an upcoming ICO (to be assigned on Colony.io)
+
 ## Readings
 * Gordon White, *Star.Ships: A Prehistory of the Spirits*, selection TK
 
