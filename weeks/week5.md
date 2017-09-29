@@ -6,7 +6,7 @@
 
 ## Preparation
 ###Assignment
-* research and analyze an upcoming ICO (to be assigned on Colony.io)
+* research a recent discovery in physics/mathematics/cosmology that undermines a materialist model of reality
 
 ### Readings
 * Gordon White, *Star.Ships: A Prehistory of the Spirits*, Preface and Chapters 1-3
@@ -14,16 +14,20 @@
 ### Watchings
 * Graham Hancock, [Quest for the Lost Civilization](https://youtu.be/T5DNvYMtkyk)
 
+### Lecture: Introduction to Magical Thinking
+* Venkat Rao: narrative rationality, tempo, and the scientific sensibility
+* Ramsey Dukes: magic and magical thinking
+
 ## In Class
 ### Discussion
-* pre-Platonic technē
-* archeoastronomy
-* alt-history
-* materialism
-* recontextualization
+* pre-Platonic magical technē
+* archeoastronomy and precession
+* alt-history and Egyptology
+* materialism and contemporary cosmology: student contributions
+* recontextualization as method
 
-### Lecture: Introduction to Magical Thinking
-* Venkat Rao and the scientific sensibility
-* Ramsey Dukes and magic
+
+
+
 
 
