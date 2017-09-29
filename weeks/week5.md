@@ -6,7 +6,7 @@
 * research and analyze an upcoming ICO (to be assigned on Colony.io)
 
 ## Readings
-* Gordon White, *Star.Ships: A Prehistory of the Spirits*, selection TK
+* Gordon White, *Star.Ships: A Prehistory of the Spirits*, Preface and Chapters 1-3
 
 ## Watchings
 * Graham Hancock, [Quest for the Lost Civilization](https://youtu.be/T5DNvYMtkyk)
