@@ -64,7 +64,10 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 #### Week 4: Crisis, Rationalism, Technē, Theory
 * [readings and watchings](/weeks/week4.md)
 
-#### Week 5: Deep History, Alt-History, New History
+#### Week 5: Alt-Archaeology, Archaeoastronomy, Göbekli Tepe and Nabta Playa
+* [outline](/weeks/week5.md)
+* [readings](/weeks/week5.md#readings)
+* [watchings](/weeks/week5.md#watchings)
 
 #### Week 6: Entheogens, Cave Art, Shamanism, Superorganisms
 
