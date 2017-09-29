@@ -77,6 +77,6 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 9: Hyperstition, Quantum Computing, Cosmology, Techno-Paganism, Techno-Occult
 
-#### Week 10: Recontextualizing Classicism, Reenchanting Technē
+#### Week 10: Recontextualizing Architecture, Reenchanting Technē
 
-#### Week 11: Recontextualizing Modernism, Hacking Prometheanity
+#### Week 11: Archeomancy
