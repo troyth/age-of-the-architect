@@ -76,4 +76,4 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 10: Recontextualizing Classicism, Reenchanting Technē
 
-#### Week 11: Recontextualizing Modernism, Understanding Prometheanity
+#### Week 11: Recontextualizing Modernism, Hacking Prometheanity
