@@ -17,6 +17,7 @@
 ### Lecture: Introduction to Magical Thinking
 * Venkat Rao: narrative rationality, tempo, and the scientific sensibility
 * Ramsey Dukes: magic and magical thinking
+* Pete Carroll: chaos magic
 
 ## In Class
 ### Discussion
