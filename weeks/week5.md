@@ -14,18 +14,41 @@
 ### Watchings
 * Graham Hancock, [Quest for the Lost Civilization](https://youtu.be/T5DNvYMtkyk)
 
-### Lecture: Introduction to Magical Thinking
-* Venkat Rao: narrative rationality, tempo, and the scientific sensibility
-* Ramsey Dukes: magic and magical thinking
-* Pete Carroll: chaos magic
-
 ## In Class
+### Presentations
+* quantum computing
+* 7D neural sand piles
+* 
+
 ### Discussion
-* pre-Platonic magical technē
-* archeoastronomy and precession
-* alt-history and Egyptology
-* materialism and contemporary cosmology: student contributions
-* recontextualization as method
+Ch1
+
+* breakdown of scientific materialism
+* recontextualizing our stories
+
+Ch 2
+
+[] our place in the universe
+[] GT is the mangrove swamp between Paleolithic and Neolithic that changes our history
+[] functions of GT: ritual, technological
+[] cosmological interpretation of GT (Sirius arrives)
+[] the coming esoteric awakening (has it already happened? Burning Man?)
+
+Ch 3
+
+[] comparative mythology after postmodern relativism
+[] genetic trail synopsis 
+[] Pan-Gaean, Gondwanan, Laurasian synopsis
+[] Laurasia > Alt-History
+[] the technē stack of the Paleolithic Renaissance: magic as an early shamanic technē that combines Gondwanan tales into "our first novel" through star lore and magic circles
+[] archeoastronomy and precession
+[] TCT notion: precession as migration magnet
+
+
+
+### Lecture/Tutorial: Ethereum, continued 
+
+
 
 
 
