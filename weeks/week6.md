@@ -11,4 +11,4 @@
 * Star.Ships chapter 4
 * Narby, Jeremy, *The Cosmic Serpent*, chapter
 * Shannon, Benny, *Antipodes of the Mind*, Chapter 22
-* Lewis-Williams, J.D. and Dowson, T.A., 1988. The signs of all times: entoptic phenomena in Upper Palaeolithic art. Current Anthropology, 29(2): 201–245.
+* Lewis-Williams, J.D. *The Mind in the Cave*, Chapter 7 (**note: this is a change from the original essay I posted**)
