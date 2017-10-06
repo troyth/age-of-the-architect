@@ -9,6 +9,6 @@
 
 ### Readings
 * Star.Ships chapter 4
-* Narby, Jeremy, *The Cosmic Serpent*, chapter
+* Narby, Jeremy, *The Cosmic Serpent*, chapters to come
 * Shannon, Benny, *Antipodes of the Mind*, Chapter 22
 * Lewis-Williams, J.D. *The Mind in the Cave*, Chapter 7 (**note: this is a change from the original essay I posted**)
