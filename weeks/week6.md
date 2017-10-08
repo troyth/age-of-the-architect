@@ -1,4 +1,4 @@
-# Week 6: Entheogens, Cave Art, Shamanism
+# Week 6: Entheogens, Cave Art, Shamanism, Snakes/Dragons/DNA
 
 > Even as the nineteenth century had to come to grips with the notion of human descent from apes, we must now come to terms with the fact that those apes were stoned apes. (Terrence McKenna)
 
@@ -9,6 +9,6 @@
 
 ### Readings
 * Star.Ships chapter 4
-* Narby, Jeremy, *The Cosmic Serpent*, chapters to come
+* Narby, Jeremy, *The Cosmic Serpent*, Chapters 7-8
 * Shannon, Benny, *Antipodes of the Mind*, Chapter 22
 * Lewis-Williams, J.D. *The Mind in the Cave*, Chapter 7 (**note: this is a change from the original essay I posted**)
