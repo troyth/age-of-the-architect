@@ -1,12 +1,11 @@
-# IN PROGRESS
-Week 7: Chaos Magic, Hermeticism, Gnosticism, Atlantis
+Week 7: Star Lore, Eleusis, Plato, Paranoid Critical Method
 
-> Properly used, magic will destroy your life. This is a feature, not a bug. \(Gordon White, [The Chaos Protocols: Magical Techniques for Navigating the New Economic Reality](https://www.amazon.com/Chaos-Protocols-Techniques-Navigating-Economic/dp/0738744719), 2016\)
 
-![K-HOLE #5, Chaos Magic](/assets/K-HOLE_ChaosMagicSpread.png)
+### Watchings
+* Carl Ruck on The Road to Eleusis (selection to come)
 
-https://bitcointalk.org/index.php?topic=571359
+### Readings
+* Gordon White, Star.Ships, chapters 5-6
+* Rem Koolhaas, Delirious New York, final chapter
+* Plato, Republic, Allegory of the Cave
 
-Magic
-* Scientific Sensibility
-* Ramsey Dukes, SSOTBME
