@@ -5,10 +5,9 @@
 
 ## Readings
 * Gordon White, Star.Ships, chapter 7
-* Ramsey Dukes, S.S.O.T.B.M.E. Revised: An Essay on Magic, 
-* Venkatesh Rao, "The Scientific Sensibility"
+* Ramsey Dukes, [S.S.O.T.B.M.E. Revised: An Essay on Magic](https://zalbarath666.files.wordpress.com/2012/07/s-s-o-t-b-m-e-revisited-ramsey-dukes.pdf), 
+* Venkatesh Rao, ["The Scientific Sensibility"](https://www.ribbonfarm.com/2011/08/26/the-scientific-sensibility/)
 
 
 
 
- 
