@@ -7,7 +7,3 @@
 * Gordon White, Star.Ships, chapter 7
 * Ramsey Dukes, S.S.O.T.B.M.E. Revised: An Essay on Magic, 
 * Venkatesh Rao, "The Scientific Sensibility"
-
-
-
-
