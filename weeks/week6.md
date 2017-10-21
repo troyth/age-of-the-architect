@@ -12,3 +12,15 @@
 * Narby, Jeremy, *The Cosmic Serpent*, Chapters 7-8
 * Shannon, Benny, *Antipodes of the Mind*, Chapter 22
 * Lewis-Williams, J.D. *The Mind in the Cave*, Chapter 7 (**note: this is a change from the original essay I posted**)
+
+## In Class
+### Discussion
+* Island SE Asian origins
+* Promethean plants: caves, entheogens, DNA, snakes/dragons
+* the shamanic science program
+* Ayahuasca as creative energy?
+
+
+### Blockchain Tutorial and Brainstorm
+* blockchain as digital stone circle
+* interpretations of and applications for architecture as an Active Form on the blockchain?

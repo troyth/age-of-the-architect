@@ -1,4 +1,13 @@
-# IN PROGRESS
-Week 8: Dark Enlightenment, Cathedrals, Bazaars
+# Week 8: Social Soup
 
-> It is necessary to ask, rather, who do capitalists pay for political favors, how much these favors are potentially worth, and how the authority to grant them is distributed. This requires, with a minimum of moral irritation, that the entire social landscape of political bribery (‘lobbying’) is exactly mapped, and the administrative, legislative, judicial, media, and academic privileges accessed by such bribes are converted into fungible shares. Insofar as voters are worth bribing, there is no need to entirely exclude them from this calculation, although their portion of sovereignty will be estimated with appropriate derision. The conclusion of this exercise is the mapping of a ruling entity that is the truly dominant instance of the democratic polity. Moldbug calls it the Cathedral. \(Nick Land, [The Dark Enlightenment](http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/)\)
+*Note: as this is midterm week, the readings/watchings will be light, and class time will be more of a prepared lecture than a discussion. I will try to summarize what we have encountered so far and illustrate where we are going.*
+
+
+## Readings
+* Gordon White, Star.Ships, chapter 7
+* Ramsey Dukes, S.S.O.T.B.M.E. Revised: An Essay on Magic, 
+* Venkatesh Rao, "The Scientific Sensibility"
+
+
+
+

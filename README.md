@@ -64,19 +64,22 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 #### Week 4: Critical Path, Rationalism, Technē, Theory
 * [readings and watchings](/weeks/week4.md)
 
-#### Week 5: Alt-Archaeology, Archaeoastronomy, Materialism, Magic
+#### Week 5: Alt-History, Archeoastronomy, Cosmology, Quantum Computing
 * [outline](/weeks/week5.md)
 * [readings](/weeks/week5.md#readings)
 * [watchings](/weeks/week5.md#watchings)
 
-#### Week 6: Entheogens, Cave Art, Shamanism, Superorganisms
+#### Week 6: Entheogens, Caves, Shamans, Snakes/Dragons/DNA
+* [outline](/weeks/week6.md)
+* [readings](/weeks/week6.md#readings)
+* [watchings](/weeks/week6.md#watchings)
 
-#### Week 7: Chaos Magic, Meme Magic, Hermeticism, Gnosticism
+#### Week 7: Magic, Hermeticism, Paranoid Critical Method
 
 #### Week 8: Dark Enlightenment / NRx, Cathedrals, Bazaars
 
-#### Week 9: Hyperstition, Quantum Computing, Cosmology, Techno-Paganism, Techno-Occult
+#### Week 9: Hyperstition, Techno-Paganism, the Breakaway Civilization
 
 #### Week 10: Recontextualizing Architecture, Reenchanting Technē
 
-#### Week 11: Archeomancy
+#### Week 11: UFOs, Archeomancy
