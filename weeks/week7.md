@@ -2,7 +2,7 @@
 
 
 ### Watchings
-* Carl Ruck on The Road to Eleusis (selection to come)
+* [Carl Ruck on The Road to Eleusis](https://www.youtube.com/watch?v=ktUoKrpaVHo)
 
 ### Readings
 * Gordon White, Star.Ships, chapters 5-6
