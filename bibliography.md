@@ -38,6 +38,8 @@ Narby, Jeremy, *The Cosmic Serpent*, 1998
 
 Rao, Venkatesh, *Tempo*
 
+Ramey, Joshua, *The Hermetic Deleuze: Philosophy and Spiritual Ordeal*, 2012
+
 Shanon, Benny, [*The Antipodes of the Mind: Charting the Phenomenology of the Ayahuasca Experience*](https://www.amazon.com/Antipodes-Mind-Phenomenology-Ayahuasca-Experience/dp/0199252939/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1504281858&sr=1-1-fkmr0&keywords=benny+shannon+antipodes+of+the+mind), 2003
 
 Scott, Felicity, [*Outlaw Territories: Environments of Insecurity/Architectures of Counterinsurgency*](https://www.amazon.com/Outlaw-Territories-Environments-Architectures-Counterinsurgency/dp/1935408739/ref=sr_1_1?s=books&ie=UTF8&qid=1504281826&sr=1-1&keywords=felicity+scott+outlaw+territories), 2016
