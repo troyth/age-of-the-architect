@@ -50,9 +50,11 @@ Stiegler, Bernard, [*What Makes Life Worth Living: On Pharmacology*](https://www
 
 Turner, Fred, [*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*](https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423), 2008
 
-Vallée, Jacques, [UFOs, the Psychic Solution](https://www.amazon.com/UFOs-Solution-Jacques-Vallee-Ph-D/dp/1530687586), 1975
+Vallée, Jacques, [*UFOs, the Psychic Solution*](https://www.amazon.com/UFOs-Solution-Jacques-Vallee-Ph-D/dp/1530687586), 1975
 
 Velikovsky, Immanuel, [*Ages in Chaos: A Reconstruction of Ancient History from the Exodus to King Akhnaton*](https://en.m.wikipedia.org/wiki/Ages_in_Chaos), 1952
+
+von Petzinger, Genevieve, [*The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*](https://www.amazon.com/First-Signs-Unlocking-Mysteries-Symbols/dp/147678549X), 2016
 
 White, Gordon, [*Star.Ships: A Prehistory of the Spirits*](https://www.amazon.com/Star-Ships-Prehistory-Gordon-White/dp/0993120091/ref=sr_1_1?s=books&ie=UTF8&qid=1504282014&sr=1-1&keywords=gordon+white+star.ships), 2016
 
