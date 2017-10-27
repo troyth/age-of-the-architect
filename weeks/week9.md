@@ -4,7 +4,7 @@
 ### Readings
 * Gordon White, *Star.Ships*, chapter 8
 * Jeffrey Kripal, *Authors of the Impossible*, introduction
-* Frances Yates, *Giordano Bruno and the Hermetic Tradition*, charter 3
+* Frances Yates, *Giordano Bruno and the Hermetic Tradition*, chapter 3
 * **skim** Vitruvius, Book IX
 
 ### Research
