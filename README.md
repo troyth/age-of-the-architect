@@ -74,12 +74,12 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 * [readings](/weeks/week6.md#readings)
 * [watchings](/weeks/week6.md#watchings)
 
-#### Week 7: Magic, Hermeticism, Paranoid Critical Method
+#### Week 7: Star Lore, Eleusis, Plato, Paranoid Critical Method
 
-#### Week 8: Dark Enlightenment / NRx, Cathedrals, Bazaars
+#### Week 8: Midterm Summary
 
-#### Week 9: Hyperstition, Techno-Paganism, the Breakaway Civilization
+#### Week 9: Egypt, Magic, Hermeticism, Occult
 
-#### Week 10: Recontextualizing Architecture, Reenchanting Technē
+#### Week 10: UFOs, Cosmotechnics, Hyperstition
 
-#### Week 11: UFOs, Archeomancy
+#### Week 11: Techgnosis, Transhumanism, Dark Enlightenment / NRx, Cathedrals
