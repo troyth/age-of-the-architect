@@ -1,4 +1,4 @@
-# Week 9: Egypt, Hermeticism, Occult, Paranormal
+# Week 9: Egypt, Magic, Hermeticism, Occult
 
 ## Class Prep
 ### Readings
