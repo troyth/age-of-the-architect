@@ -1,8 +1,8 @@
 # Week 10: UFOs, Physics, Psi and Consciousness Effects
 
 ### Assignment
-* one sentence definition of the architect /(as a Google doc annotated with the rationale for each element, which could include quotes from Gordon, etc/)
-* one paragraph description of your idea for what we can do as a class for the final assignment /(as an annotated Google doc with links/comments to explain your rationale/)
+* one sentence definition of the architect \(as a Google doc annotated with the rationale for each element, which could include quotes from Gordon, etc\)
+* one paragraph description of your idea for what we can do as a class for the final assignment \(as an annotated Google doc with links/comments to explain your rationale\)
 
 ### Readings
 * Gordon White, *Star.Ships*, chapters 9-10
