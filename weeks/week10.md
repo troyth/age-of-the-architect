@@ -1,4 +1,5 @@
 # Week 10: UFOs, Physics, Psi and Consciousness Effects
+*November 2, 2017*
 
 ### Assignment
 * one sentence definition of the architect \(as a Google doc annotated with the rationale for each element, which could include quotes from Gordon, etc\)

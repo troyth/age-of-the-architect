@@ -1,4 +1,5 @@
 # Week 2: Prometheanism, Normalization, Disposition
+*September 7, 2017*
 
 ![Ribbonfarm Greater Cultural Region, 2016](/assets/RibbonfarmMap2016.jpg)
 

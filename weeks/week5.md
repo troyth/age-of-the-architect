@@ -1,4 +1,5 @@
-# Week 5: Alt-Archaeology, Archaeoastronomy, Materialism, Magic
+# Week 5: Alt-History, Archeoastronomy, Cosmology, Quantum Computing
+*September 28, 2017*
 
 ![Orion Correlation Theory](/assets/OrionCorrelationTheory_GoogleMaps.jpg)
 
@@ -43,7 +44,6 @@ Ch 3
 [] the technē stack of the Paleolithic Renaissance: magic as an early shamanic technē that combines Gondwanan tales into "our first novel" through star lore and magic circles
 [] archeoastronomy and precession
 [] TCT notion: precession as migration magnet
-
 
 
 ### Lecture/Tutorial: Ethereum, continued 

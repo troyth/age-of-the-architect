@@ -1,4 +1,5 @@
 # Week 12: Techgnosis, Hyperobjects, Cosmotechnics, PKD
+*November 16, 2017*
 
 ### Readings
 * Timothy Morton, *Hyperobjects*, selects TK

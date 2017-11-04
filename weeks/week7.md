@@ -1,5 +1,5 @@
 # Week 7: Star Lore, Eleusis, Plato, Paranoid Critical Method
-
+*October 12, 2017*
 
 ### Watchings
 * [Carl Ruck on The Road to Eleusis](https://www.youtube.com/watch?v=ktUoKrpaVHo)

@@ -1,4 +1,5 @@
 # Week 9: Egypt, Magic, Hermeticism, Occult
+*October 26, 2017*
 
 ## Class Prep
 ### Readings

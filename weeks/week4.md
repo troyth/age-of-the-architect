@@ -1,4 +1,5 @@
 # Week 4: Critical Path, Rationalism, Technē, Theory
+*September 21, 2017*
 
 ![Superskynet ICO](/assets/superskynetICO.jpg)
 
