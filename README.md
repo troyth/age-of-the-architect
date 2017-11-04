@@ -82,6 +82,6 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 #### Week 10: UFOs, Physics, Psi and Consciousness Effects
 
-#### Week 11: Hyperstition, Hyperobjects
+#### Week 11: Hyperstition, Dark Enlightenment / NRx, Cathedrals, Transhumanism
 
-#### Week 12: Techgnosis, Transhumanism, Dark Enlightenment / NRx, Cathedrals
+#### Week 12: Techgnosis, Hyperobjects, Cosmotechnics, PKD
