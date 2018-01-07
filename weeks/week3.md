@@ -1,4 +1,4 @@
-# Week 3: Hacker, Cyberpunk, Cypherpunk, Crypto-Anarchist, and the Blockchain
+# Week 3: Hacker, Cyberpunk, Cypherpunk, Crypto-Anarchist, Blockchain
 *September 14, 2017*
 
 > A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
@@ -36,23 +36,72 @@
 * Gibney, Alex, [*The Deep Web*](http://www.imdb.com/title/tt3312868/)
 * Blank, Steve, ["The Secret History of Silicon Valley"](https://www.youtube.com/watch?v=ZTC_RxWN_xo), 2008
 
-## In Class
-### Discussion
-1.  Define Week 2 ideas (assign in colony.io and ask the class to vote on how many tokens to assign to each)
-2.  Story of Prometheus animated by Piero di Cosimo
-3.  Discussion: Manifestos (build out mind map)
-4.  Discussion: Blockchain (build out mind map)
+## Agenda
+#### 3.0: Recap and Early Manifestos Discussion \([deck](https://docs.google.com/presentation/d/1HRIJ3R8z0kIoiWVHOoQSEbhLka3YM2tmOJAbRNuxAYI/edit?usp=sharing)\)
+* Discuss: Week 2 concepts (assign in colony.io and ask the class to vote on how many tokens to assign to each)
+  * Exit, Voice, Loyalty
+  * Disposition, Active Form
+  * Normalization
+  * Appreciative and Instrumental Metaphors
+  * Promethean, Pastoral
+* Lecture: Story of Prometheus animated by Piero di Cosimo
+* Discussion: Early Manifestos (build out mind map)
+  * The Conscience of a Hacker (1986)
+  * The Crypto Anarchist Manifesto (1992)
+  * A Cypherpunk's Manifesto (1993)
 
-### Lecture: Prehistory of Cryptoculture
+#### 3.1: Hackers and Crackers, Phreakers and Leakers, Cyberspace, Cyberpunks, Digital Dualism, Cypherpunks, Crytpo-Anarchists \([deck](https://drive.google.com/open?id=15jaf5Ns9IeOidYw1Uy3Lo1t_3f0bStdHioMJteb4b38)\)
+* Lecture: History of Hacking
+  * MIT Media Lab to Star Wars
+  * Crackers and Phreakers
+  * Hacking in film
+  * Cyberspace
+  * Hacker Ethic
+  * Normalization of Hacking
+  * Anonymous and Snowden
+* Discussion: Computer Metaphor and Conspiracy
+  * The Computational Metaphor, Kevin Kelley (1998)
+  * Conspiracy as Governance, Julian Assange (2006)
 
+#### 3.2: Pancomputationalism, Digital Physics, Cybernetic Epistemology \([deck](https://drive.google.com/open?id=1mhW6OQZhEuwp8aOJEBKgsfFGUnaPHw-DBHT9Zw4-3y8)\)
+* Lecture: Network History
+  * Turing ontology is anti-architectural
+  * Cellular Automata and Digital Physics: Von Neumann and Konrad Zuze
+  * Cybernetics and the Nervous System: Weiner and McLuhan
+  * Interpersonal Computing to Planetary Scale Computing
+* Brainstorm:
+  * Things we think of as computers
+  * Contemporary conspiracies
+* Discussion: Blockchain Readings
+  * “The Rise and Fall of Silk Road”, Wired (2015)
+  * “Visions, Part 1: The Value of Blockchain Technology”, Vitalik Buterin (2015)
+  * “Blockchains Never Forget”, Venkatesh Rao (2017)
 
+#### 3.3: The Internet \([deck](https://drive.google.com/open?id=1Yec_MF79jD84DNWccY-brkxzGYl1rxhklbnGjouEn4A)\)
+* Lecture: Centralization
+  * Baran's network typologies and the nuclear incentive
+  * packet switching
+  * ARPANET
+  * TCP/IP and The Internet
+  * WWW
+  * network effects and digital monopolies
+* Demo:
+  * ping example.com
+  * traceroute example.com
+  * inspect page source in Chrome browser
 
-### Short Lecture: Hacker History
-* From the MIT Model Tech and Railway Club to SpaceWar, WarGames, Cyberspace, Digital Dualism, Digital Physics, and Kevin Mitnick to Hacker hostels, 1 Hacker Way and Anonymous
-
-### Tutorial: Introduction to the Blockchain
-* cryptographic functions and hashes
-* public key encryption and zero-knowledge proofs
-* double spend problem and the Blockchain solution
-* Bitcoin
-* exchanges, hacks, and volatility on the frontier
+#### 3.4: The Blockchain \([deck](https://drive.google.com/open?id=1h1d-EZ7m_dAc8LSYNF0aUar3Xj-0zKHnCPmAoLb5paU)\)
+* Lecture: Cryptography, Double Spending, and the Blockchain Solution
+  * The Onion Router (TOR)
+  * cryptographic hash functions and the avalanche effect
+  * public key cryptography and zero-knowledge proofs
+  * digital signature
+  * double spend problem
+  * The Bitcoin Blockchain Solution and Satoshi Nakamoto
+  * Mining
+  * Silk Road and MtGOX
+  * Forking
+  * Altcoins, Colored Coins, Shitcoins
+* Discussion: Choose seminar assignment
+  1.  Discursive: Recontextualize ‘Architect’
+  2.  Active Form: Game of Pickaxes
