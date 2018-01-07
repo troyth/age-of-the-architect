@@ -4,7 +4,7 @@
 > A blockchain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies. \(Vitalik Buterin, [Ethereum Blog, April 13, 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)\)
 
 ## Objective
-* To understand the 70 history of tech culture and the strands of it that Cryptoculture embodies
+* To understand the 70 year history of tech culture and the strands of it that Cryptoculture embodies
 * To understand the mechanics of blockchain dynamics
 
 ## Method: Discussion and Tutorial
@@ -37,15 +37,15 @@
 * Blank, Steve, ["The Secret History of Silicon Valley"](https://www.youtube.com/watch?v=ZTC_RxWN_xo), 2008
 
 ## In Class
-### Review: Week 2 Key Ideas
-* Exit
-* Prometheanism
-* Normalization
-* Disposition
+### Discussion
+1.  Define Week 2 ideas (assign in colony.io and ask the class to vote on how many tokens to assign to each)
+2.  Story of Prometheus animated by Piero di Cosimo
+3.  Discussion: Manifestos (build out mind map)
+4.  Discussion: Blockchain (build out mind map)
 
-### Discussion: Key Ideas from Readings
-* continue to build Idea Space mind map
-* start to define key terms
+### Lecture: Prehistory of Cryptoculture
+
+
 
 ### Short Lecture: Hacker History
 * From the MIT Model Tech and Railway Club to SpaceWar, WarGames, Cyberspace, Digital Dualism, Digital Physics, and Kevin Mitnick to Hacker hostels, 1 Hacker Way and Anonymous
