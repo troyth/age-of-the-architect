@@ -5,7 +5,7 @@ Graduate seminar at Columbia University (Fall 2017). Listings at [GSAPP](https:/
 
 ![Superskynet ICO](/assets/superskynetICO.jpg)
 
-## Syllabus [v.0.11](https://github.com/troyth/age-of-the-architect/versions.md)
+## Syllabus [v.0.12](https://github.com/troyth/age-of-the-architect/versions.md)
 
 Why do the contemporary deities of tech pray to the pagan gods of Burning Man? Why does Elon Musk believe we are living inside of a simulation? Why does Peter Thiel hold a New Zealand passport? Why did Alex Jones think the Sandy Hook mass murder was a hoax? What does any of this have to do with architecture? To begin to formulate an answer to these questions we need to go back to the beginning.
 
@@ -20,7 +20,7 @@ We will begin with a wake up call from tech theorist Venkatesh Rao. Put simply, 
 White's *Star.Ships: A Prehistory of the Spirits* allows us to speculate on the pre-history of Wigley's Derridean insights by recontextualizing the origins of architecture with new perspectives on the history of psychedelics, shamanism, star lore, the occult, and other esoteric knowledge, particularly magic. Ethereum's smart contracts allow us to make and deploy active forms into the world.
 
 ### Deliverables
-*Note: there were two options for deliverables. The class unanimously decided on the following.*
+*Note: there were two options for deliverables. The class unanimously decided on the following...*
 
 #### Cryptocurrency ICO
 We will build and launch a project that interacts with the Ethereum blockchain, possibly through an Initial Coin Offering (ICO). Each student will contribute to various aspects of the project, including: developing the concept, writing the whitepaper, writing the smart contract for the ICO, branding and graphics, building the website, and community management and hype.
@@ -28,6 +28,7 @@ We will build and launch a project that interacts with the Ethereum blockchain, 
 #### Colony.io
 We will use Colony.io to organize our collective efforts and keep track of each students contribution. This accounting will contribute 70% to each student's final grade.
 
+*... yet, in practice, this proved too ambitious. Ultimately, the class collectively developed a definition of the architect, which each student then extensively annotated to personalize, both textually and through targeted projects that ranged from lists of quotes by and about architects to alchemical treatises to an online architecture branding agency.*
 
 ### Methodology
 
