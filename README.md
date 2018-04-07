@@ -19,47 +19,47 @@ We will begin with a wake up call from tech theorist Venkatesh Rao. Put simply, 
 
 White's *Star.Ships: A Prehistory of the Spirits* allows us to speculate on the pre-history of Wigley's Derridean insights by recontextualizing the origins of architecture with new perspectives on the history of psychedelics, shamanism, star lore, the occult, and other esoteric knowledge, particularly magic. Ethereum's smart contracts allow us to make and deploy active forms into the world.
 
-### Deliverables
+#### Deliverables
 *We will decide on the course deliverable collectively in the first few weeks of class.*
 
-### Methodology
+#### Methodology
 *We will update our driving methodology this year. See [here]() for a breakdown from last year.*
 
-### Bibliography
+#### Bibliography
 We will cull readings each week from [this ever-growing long list](bibliography.md) of books, manifestoes, essays, papers, reports, articles, videos, and social media posts.
 
-### Schedule
-#### Week 1: The Dominant of Wider Inclusions
+## Schedule
+### Week 1: The Dominant of Wider Inclusions
 Venkat Rao's Great Weirding; Sheldrake's *The Science Delusion*; NASA's EM Drive, Hawking's model-dependent reality, the opioid crisis; witchcraft in contemporary culture; Charles Fort's Dominant of Wider Inclusions and Ian Cheng's portal art...
 
-#### Week 2: Real Magic
+### Week 2: Real Magic
 Dean Radin's consciousness research on the scientific proof of telepathy/precognition, psychokinesis, and theurgy; psi spies from Project Stargate and Stanford Research Institute; Kahneman's systems of thinking, Haidt's moral foundations theory, Hanson and Simmler's elephant in the room, the Jungian archetypal stories of alt-right whisperer, Jordan Peterson; Stephen Skinner's conjuring of crows, Aleister Crowley's Egyptian rite, Josephine McCarthy's Quareia, Peter Carroll's chaos magic, K-Hole, sigil magic, *War of Witches*; Catland and Rachel Rose's alchemical art...
 
-#### Week 3: The Chemical Muse
+### Week 3: The Chemical Muse
 Psychedelics and entheogens in the paleolithic, neolithic, and ancient/classical world around the world; Terrence McKenna's stoned apes, aquatic apes, pig-chimps, CRISPR-CAS9 and contemporary chimeras; Ruck's *Raod to Eleusis* and Plato's cave; Neanderthal cave art and cave architecture; shamanism; contemporary neuroscience of ayahuasca, DMT, LSD, psilocybin; synthetics, molly, Berghain, and rave culture; Pablo Amaringo's art...
 
-#### Week 4: Star.Ships
+### Week 4: Star.Ships
 Using architecture as a cipher to unlock prehistory through stone circles and pyramids from Egypt to Indonesia to the Yucatan to Turkey and Sudan; channeled texts from RA; diffusionism versus convergent evolution; cataclymism versus uniformitarianism; psychotropics; alt-archaeologists; history of religion; Witzel's comparative mythology; Eduoardo Kohn's *runa puma*; the history of Christianity; Frances Yate's Hermeticism; celebrity in the 18th century; Elizabeth Gilbert's *Big Magic*, Vasari's *Lives of the Artists*, Michelangelo's art...
 
-#### Week 5: Cosmic Womb
+### Week 5: Cosmic Womb
 Astrobiological accounts of the panspermic origins of DNA in distant galaxies brought to earth through cometary vectors as mainstream science is only beginning to admit; Orion Correlation Hypothesis; extinct meteorites; the Big Bang and the inflation problem; from the closed system obsessions of the cybernetic cipher to the open system dynamics of complexity science; Jenna Sutela's art...
 
-#### Week 6: The Cosmic Hologram
+### Week 6: The Cosmic Hologram
 Tying it all together into a an emerging cosmological theory of everything from the frontiers of science that places consciousness at the base of reality; Jude Currivan and Klee Irwin; pixelation and the E8 crystal; information theory and Zipf's law; 12 stand DNA...
 
-#### Week 7: Dark Englightenment
+### Week 7: Dark Englightenment
 The dark anti-democratic politics of Silicon Valley and alt-right meme magic and their origins in the hyperstition of Ccru's Nick Land and Sadie Plant and their contemporary clash with the New Age counterculture at Burning Man; techno-paganism, *Techgnosis*, Autonomatrix, Lovecraft, PKD, rave culture; cyberpunk, hackers, cryptoanarchy, Julian Assange's definition of conspiracy, Kevin Kelly's computational metaphor...
 
-#### Week 8: Midterm
+### Week 8: Midterm
 
-#### Week 9: Behold a Pale Horse
+### Week 9: Behold a Pale Horse
 The back story on the contemporary conspiracy theory nexus of Alex Jones, Waco and the American militia movement, Evangelical eschatology, white Christian identarianism, Nazis and American intelligence; William Cooper, Robert Anton Wilson, Jim Marrs; SRA, Operation Paperclip, MKULTRA, *Stranger Things*, and Chris Knowles; central banking, economic hitmen, the petrodollar, the Godfather and Narcodollars, the Council on Foreign Relations and Norman Dodd's revelations...
 
-#### Week 10: Alien Agenda
+### Week 10: Alien Agenda
 Roswell, Whitley Strieber's *Communion*, types of aliens and gods and demons and spirits, Jeff Kripal's comparative religious studies, Jaques Vallée's UFO control theory, Tom Delonge's *To the Stars...* Academy; Ingo Swann's *Penetration*, Puharich's seance; Duchamp's art...
 
-#### Week 11: The Secret History of the World
+### Week 11: The Secret History of the World
 Putting it all together using Mark Booth's account of the lineage of esoteric knowledge from classical Mystery schools to contemporary secret societies...
 
-#### Week 12: Cosmotechnics
-How to really learn from the East: reenchanting techné with cosmological awareness toward a neo-Hermetic architecture in our moment of Heideggerian flickering.
+### Week 12: Cosmotechnics
+Hui's cosmotechnics and *The Three Body Problem*, or how to really learn from the East: reenchanting techné with cosmological awareness toward a neo-Hermetic architecture in our moment of Heideggerian flickering.
