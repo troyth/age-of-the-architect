@@ -53,6 +53,7 @@ Tying it all together into a an emerging cosmological theory of everything from 
 The dark anti-democratic politics of Silicon Valley and alt-right meme magic and their origins in the hyperstition of Ccru's Nick Land and Sadie Plant and their contemporary clash with the New Age counterculture at Burning Man; techno-paganism, *Techgnosis*, Autonomatrix, Lovecraft, PKD, rave culture; cyberpunk, hackers, cryptoanarchy, Julian Assange's definition of conspiracy, Kevin Kelly's computational metaphor; Amy Ireland's Black Circuit; the Basilisk; Daniel Keller's *Seasteaders*; Ed Fornieles's art...
 
 ### Week 8: Midterm Summary or Secret Body (TBD)
+Nathaniel Mellors's artwork, "Progressive Rocks"
 
 ### Week 9: Behold a Pale Horse
 The back story on the contemporary conspiracy theory nexus of Alex Jones, Waco and the American militia movement, Evangelical eschatology, white Christian identarianism, Nazis and American intelligence; William Cooper, Robert Anton Wilson, Jim Marrs; SRA, Operation Paperclip, MKULTRA, *Stranger Things*, and Chris Knowles; central banking, economic hitmen, the petrodollar, the Godfather and Narcodollars, the Council on Foreign Relations and Norman Dodd's revelations...
