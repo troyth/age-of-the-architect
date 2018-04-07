@@ -30,25 +30,36 @@ We will cull readings each week from [this ever-growing long list](bibliography.
 
 ### Schedule
 #### Week 1: The Science Delusion
+Rupert Sheldrake's morphic resonance, Charles Fort's Dominant of Wider Inclusions,...
 
 #### Week 2: Real Magic
+Dean Radin's consciousness research on the scientific proof of telepathy/precognition, psychokinesis, and theurgy,...
 
 #### Week 3: The Chemical Muse
+Psychedelics and entheogens in the paleolithic, neolithic, and ancient/classical world around the world; cave art and shamanism; contemporary neuroscience of ayahuasca, DMT, LSD, psilocybin, etc...
 
 #### Week 4: Star.Ships
+Using architecture as a cipher to unlock prehistory through stone circles and pyramids from Egypt to Indonesia to the Yucatan to Turkey and Sudan...
 
 #### Week 5: Cosmic Womb
+Astrobiological accounts of the panspermic origins of DNA in distant galaxies brought to earth through cometary vectors as mainstream science is only beginning to admit...
 
 #### Week 6: The Cosmic Hologram
+Tying it all together into a an emerging cosmological theory of everything from the frontiers of science that places consciousness at the base of reality...
 
 #### Week 7: Dark Englightenment
+The dark anti-democratic politics of Silicon Valley, their origins in the occult philosophy of Nick Land, and their contemporary clash with the New Age counterculture at Burning Man...
 
 #### Week 8: Midterm
 
 #### Week 9: Behold a Pale Horse
+The back story on the contemporary conspiracy theory nexus of Alex Jones, Waco and the American militia movement, Evangelical eschatology, white Christian identarianism, Nazis and American intelligence, and the alt-right whisperer, Jordan Peterson...
 
 #### Week 10: Alien Agenda
+What went down at Roswell, Whitley Strieber's *Communion*, types of aliens and gods and demons and spirits, Jeff Kripal's comparative religious studies, Stephen Skinner's conjuring of crows, Aleister Crowley's Egyptian rite...
 
 #### Week 11: The Secret History of the World
+Putting it all together using Mark Booth's account of the lineage of esoteric knowledge from classical Mystery schools to contemporary secret societies...
 
 #### Week 12: Cosmotechnics
+How to really learn from the East: reenchanting techné with cosmological awareness toward a neo-Hermetic architecture in our moment of Heideggerian flickering.
