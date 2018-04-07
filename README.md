@@ -29,8 +29,8 @@ White's *Star.Ships: A Prehistory of the Spirits* allows us to speculate on the 
 We will cull readings each week from [this ever-growing long list](bibliography.md) of books, manifestoes, essays, papers, reports, articles, videos, and social media posts.
 
 ### Schedule
-#### Week 1: The Science Delusion
-Rupert Sheldrake's morphic resonance, Charles Fort's Dominant of Wider Inclusions,...
+#### Week 1: The Dominant of Wider Inclusions
+Charles Fort's Dominant of Wider Inclusions,Rupert Sheldrake's morphic resonance, witchcraft in contemporary culture,...
 
 #### Week 2: Real Magic
 Dean Radin's consciousness research on the scientific proof of telepathy/precognition, psychokinesis, and theurgy,...
