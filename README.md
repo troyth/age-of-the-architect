@@ -38,6 +38,8 @@ Dean Radin's consciousness research on the scientific proof of telepathy/precogn
 ### Week 3: The Chemical Muse
 Psychedelics and entheogens in the paleolithic, neolithic, and ancient/classical world around the world; Terrence McKenna's stoned apes, aquatic apes, pig-chimps, CRISPR-CAS9 and contemporary chimeras; Ruck's *Raod to Eleusis* and Plato's cave; Neanderthal cave art and cave architecture; shamanism; contemporary neuroscience of ayahuasca, DMT, LSD, psilocybin; synthetics, molly, Berghain, and rave culture; Suicide Club, Cacophony Society, the Entheogen Review, Erowid; Bruce Rimmel's *The Shimmer Within*; Pablo Amaringo's art...
 
+Neanderthal cave architecture
+
 ### Week 4: Star.Ships
 Using architecture as a cipher to unlock prehistory through stone circles and pyramids from Egypt to Indonesia to the Yucatan to Turkey and Sudan; channeled texts from RA; diffusionism versus convergent evolution; cataclymism versus uniformitarianism; psychotropics; alt-archaeologists; history of religion; Witzel's comparative mythology; Eduoardo Kohn's *runa puma*; the history of Christianity; Frances Yate's Hermeticism; celebrity in the 18th century; Elizabeth Gilbert's *Big Magic*, Vasari's *Lives of the Artists*, Michelangelo's art...
 
@@ -50,7 +52,7 @@ Tying it all together into a an emerging cosmological theory of everything from 
 ### Week 7: Dark Englightenment
 The dark anti-democratic politics of Silicon Valley and alt-right meme magic and their origins in the hyperstition of Ccru's Nick Land and Sadie Plant and their contemporary clash with the New Age counterculture at Burning Man; techno-paganism, *Techgnosis*, Autonomatrix, Lovecraft, PKD, rave culture; cyberpunk, hackers, cryptoanarchy, Julian Assange's definition of conspiracy, Kevin Kelly's computational metaphor; Amy Ireland's Black Circuit; the Basilisk; Daniel Keller's *Seasteaders*; Ed Fornieles's art...
 
-### Week 8: Midterm
+### Week 8: Midterm Summary or Secret Body (TBD)
 
 ### Week 9: Behold a Pale Horse
 The back story on the contemporary conspiracy theory nexus of Alex Jones, Waco and the American militia movement, Evangelical eschatology, white Christian identarianism, Nazis and American intelligence; William Cooper, Robert Anton Wilson, Jim Marrs; SRA, Operation Paperclip, MKULTRA, *Stranger Things*, and Chris Knowles; central banking, economic hitmen, the petrodollar, the Godfather and Narcodollars, the Council on Foreign Relations and Norman Dodd's revelations...
