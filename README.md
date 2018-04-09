@@ -58,7 +58,7 @@ Nathaniel Mellors's artwork, "Progressive Rocks"
 ### Week 9: Behold a Pale Horse
 The back story on the contemporary conspiracy theory nexus of Alex Jones, Waco and the American militia movement, Evangelical eschatology, white Christian identarianism, Nazis and American intelligence; William Cooper, Robert Anton Wilson, Jim Marrs; SRA, Operation Paperclip, MKULTRA, *Stranger Things*, and Chris Knowles; central banking, economic hitmen, the petrodollar, the Godfather and Narcodollars, the Council on Foreign Relations and Norman Dodd's revelations...
 
-### Week 10: Alien Agenda
+### Week 10: Alien Agenda or Secret Body (TBD)
 Roswell, Whitley Strieber's *Communion*, types of aliens and gods and demons and spirits, Jeff Kripal's comparative religious studies, Jaques Vallée's UFO control theory, Tom Delonge's *To the Stars...* Academy; Ingo Swann's *Penetration*, Puharich's seance; Duchamp's art...
 
 ### Week 11: The Secret History of the World
