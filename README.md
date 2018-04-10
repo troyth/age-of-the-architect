@@ -19,6 +19,9 @@ We will begin with a wake up call from tech theorist Venkatesh Rao. Put simply, 
 
 White's *Star.Ships: A Prehistory of the Spirits* allows us to speculate on the pre-history of Wigley's Derridean insights by recontextualizing the origins of architecture with new perspectives on the history of psychedelics, shamanism, star lore, the occult, and other esoteric knowledge, particularly magic. Ethereum's smart contracts allow us to make and deploy active forms into the world.
 
+#### Premise
+The purpose of this course is to end the semester with each student having a viable definition of "architect." It begins from the premise that "architect" is unable to be defined in abstract, that an absolute architecture is not possible. Rather, to define "architect" we must begin from a cosmology. This course will present a particular cosmology, the fundamental esoteric framework of Western civilization. We will encounter it both through occult texts and recently unmasked interpretations and challenge it with bleeding edge science that is beginning to emerge in just the past few months.
+
 #### Deliverables
 *We will decide on the course deliverable collectively in the first few weeks of class.*
 
