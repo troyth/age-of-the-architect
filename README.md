@@ -44,7 +44,7 @@ Psychedelics and entheogens in the paleolithic, neolithic, and ancient/classical
 Neanderthal cave architecture
 
 ### Week 4: Star.Ships
-Using architecture as a cipher to unlock prehistory through stone circles and pyramids from Egypt to Indonesia to the Yucatan to Turkey and Sudan; channeled texts from RA; diffusionism versus convergent evolution; cataclymism versus uniformitarianism; psychotropics; alt-archaeologists; history of religion; Witzel's comparative mythology; Eduoardo Kohn's *runa puma*; the history of Christianity; Frances Yate's Hermeticism; celebrity in the 18th century; Elizabeth Gilbert's *Big Magic*, Vasari's *Lives of the Artists*, Michelangelo's art...
+Using architecture as a cipher to unlock prehistory through stone circles and pyramids from Egypt to Indonesia to the Yucatan to Turkey and Sudan; channeled texts from RA; diffusionism versus convergent evolution; David Rohl's New Chronology of Egypt; cataclymism versus uniformitarianism; psychotropics; alt-archaeologists; history of religion; Witzel's comparative mythology; Eduoardo Kohn's *runa puma*; the history of Christianity; Frances Yate's Hermeticism; celebrity in the 18th century; Elizabeth Gilbert's *Big Magic*, Vasari's *Lives of the Artists*, Michelangelo's art...
 
 ### Week 5: Cosmic Womb
 Astrobiological accounts of the panspermic origins of DNA in distant galaxies brought to earth through cometary vectors as mainstream science is only beginning to admit; Orion Correlation Hypothesis; extinct meteorites; the Big Bang and the inflation problem; from the closed system obsessions of the cybernetic cipher to the open system dynamics of complexity science; Jenna Sutela's art...
@@ -53,7 +53,7 @@ Astrobiological accounts of the panspermic origins of DNA in distant galaxies br
 Tying it all together into a an emerging cosmological theory of everything from the frontiers of science that places consciousness at the base of reality; Jude Currivan and Klee Irwin; pixelation and the E8 crystal; information theory and Zipf's law; 12 stand DNA...
 
 ### Week 7: Dark Englightenment
-The dark anti-democratic politics of Silicon Valley and alt-right meme magic and their origins in the hyperstition of Ccru's Nick Land and Sadie Plant and their contemporary clash with the New Age counterculture at Burning Man; techno-paganism, *Techgnosis*, Autonomatrix, Lovecraft, PKD, rave culture; cyberpunk, hackers, cryptoanarchy, Julian Assange's definition of conspiracy, Kevin Kelly's computational metaphor; Amy Ireland's Black Circuit; the Basilisk; Daniel Keller's *Seasteaders*; Ed Fornieles's art...
+The dark anti-democratic politics of Silicon Valley and alt-right meme magic and their origins in the hyperstition of Ccru's Nick Land and Sadie Plant and their contemporary clash with the New Age counterculture at Burning Man; Cthulhu, techno-paganism, *Techgnosis*, Autonomatrix, Lovecraft, PKD, rave culture; cyberpunk, hackers, cryptoanarchy, Julian Assange's definition of conspiracy, Kevin Kelly's computational metaphor; Amy Ireland's Black Circuit; the Basilisk; Daniel Keller's *Seasteaders*; Ed Fornieles's art...
 
 ### Week 8: Midterm Summary or Secret Body (TBD)
 Nathaniel Mellors's artwork, "Progressive Rocks"
@@ -67,5 +67,8 @@ Roswell, Whitley Strieber's *Communion*, types of aliens and gods and demons and
 ### Week 11: The Secret History of the World
 Putting it all together using Mark Booth's account of the lineage of esoteric knowledge from classical Mystery schools to contemporary secret societies...
 
-### Week 12: Cosmotechnics
+### Week 12: The Pleiadian Agenda
+Putting it all together with Barbara Hand Clow's "cosmic party"; Madame Blavatsky's Theosophy, Hilla Rebay, Frank Lloyd and the Guggenheim as a "temple of spirit"; Kandinsky's art and Hilma af Klimt's channeled art...
+
+### Week 13: Cosmotechnics
 How to really learn from the East: Hui's cosmotechnics, quantum computing and encryption, *The Three Body Problem*; reenchanting techné with cosmological awareness toward a neo-Hermetic architecture in our moment of Heideggerian flickering.
